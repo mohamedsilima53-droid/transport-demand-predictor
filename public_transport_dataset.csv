@@ -1,0 +1,801 @@
+City,Route,Transport_Type,Day_Type,Time_Slot,Weather,Season,Route_Distance_km,Fare_TZS,Available_Vehicles,Population_Density,Avg_Wait_Min,Temp_Celsius,Near_Market,Near_School,Passengers_Per_Hour
+Tanga,City Centre - Airport,BRT,Weekday,Afternoon (1-3pm),Sunny,Long Rains,23.3,4050.0,14,10556.0,33.6,20.5,0,1,401
+Mwanza,Tanga - Korogwe,Daladala,Weekend,Night (8-10pm),Cloudy,Dry Season,96.3,4360.0,15,999.0,2.5,29.0,1,1,286
+Zanzibar,Mwanza - Musoma,Daladala,Weekday,Morning Peak (7-9am),Rainy,Long Rains,41.4,2450.0,33,3502.0,7.5,21.2,1,1,519
+Mbeya,Tabora - Shinyanga,Taxi,Weekday,Morning Peak (7-9am),Sunny,Dry Season,88.2,2530.0,25,10571.0,5.1,22.1,1,1,593
+Tanga,Iringa - Morogoro,Daladala,Weekday,Morning Peak (7-9am),Heavy Rain,Dry Season,51.6,2110.0,21,9152.0,44.1,18.5,1,1,473
+Tabora,City Centre - Airport,Ferry,Weekday,Midday (10am-12pm),Sunny,Long Rains,70.2,4840.0,17,703.0,6.7,31.0,1,1,341
+Arusha,Arusha - Moshi,Ferry,Weekday,Early Morning (5-7am),Sunny,Dry Season,100.2,3580.0,23,6446.0,43.6,32.6,1,0,343
+Tanga,Iringa - Morogoro,Ferry,Public Holiday,Afternoon (1-3pm),Sunny,Short Rains,96.9,690.0,17,6590.0,16.5,32.3,1,1,495
+Zanzibar,Arusha - Moshi,Taxi,Public Holiday,Early Morning (5-7am),Sunny,Short Rains,104.2,4360.0,14,5110.0,52.9,20.3,1,0,225
+Mbeya,Tabora - Shinyanga,Taxi,Public Holiday,Early Morning (5-7am),Heavy Rain,Long Rains,9.0,2560.0,29,3920.0,49.2,34.3,1,0,262
+Mwanza,Mbezi - Posta,Daladala,Weekend,Early Morning (5-7am),Sunny,Short Rains,83.7,620.0,20,8340.0,57.6,30.1,1,0,336
+Zanzibar,Iringa - Morogoro,Bus,Weekday,Morning Peak (7-9am),Sunny,Dry Season,18.5,2880.0,30,2890.0,53.3,34.2,0,1,460
+Zanzibar,Ubungo - Kariakoo,Bus,Weekday,Evening Peak (4-7pm),Sunny,Short Rains,51.1,2260.0,19,9688.0,56.1,26.0,0,0,450
+Arusha,Arusha - Moshi,Taxi,Weekday,Morning Peak (7-9am),Cloudy,Long Rains,66.7,4430.0,39,9735.0,51.8,25.9,0,0,423
+Morogoro,Mwanza - Musoma,Daladala,Weekend,Morning Peak (7-9am),Cloudy,Long Rains,49.5,1260.0,13,5276.0,42.2,32.1,0,1,408
+Mbeya,Ubungo - Kariakoo,Bus,Weekday,Night (8-10pm),Sunny,Dry Season,63.3,4180.0,18,3761.0,11.9,19.7,1,1,360
+Dodoma,Mbeya - Songea,Daladala,Weekday,Night (8-10pm),Sunny,Long Rains,119.6,2920.0,23,3765.0,17.8,27.4,1,1,327
+Zanzibar,Mbeya - Songea,Daladala,Weekday,Early Morning (5-7am),Rainy,Short Rains,18.0,560.0,33,6046.0,14.3,33.1,0,1,392
+Morogoro,City Centre - Airport,Daladala,Weekday,Morning Peak (7-9am),Sunny,Long Rains,81.7,4870.0,39,8775.0,37.0,32.9,1,1,519
+Dodoma,Mbezi - Posta,Tuk-tuk,Weekend,Early Morning (5-7am),Sunny,Dry Season,48.7,2710.0,18,4627.0,31.2,35.2,1,1,333
+Mbeya,Tabora - Shinyanga,Ferry,Weekend,Night (8-10pm),Sunny,Long Rains,17.7,1670.0,9,7515.0,52.3,30.6,1,0,279
+Dar es Salaam,Iringa - Morogoro,Daladala,Weekday,Evening Peak (4-7pm),Rainy,Short Rains,20.7,2510.0,33,4899.0,57.3,21.7,1,1,458
+Tabora,Dodoma - Kondoa,Tuk-tuk,Public Holiday,Afternoon (1-3pm),Sunny,Dry Season,114.0,4330.0,32,4002.0,25.5,18.4,1,1,349
+Morogoro,Mwanza - Musoma,Taxi,Weekday,Early Morning (5-7am),Cloudy,Short Rains,105.8,1730.0,17,786.0,31.4,26.6,1,0,285
+Iringa,Arusha - Moshi,Bus,Weekday,Evening Peak (4-7pm),Sunny,Dry Season,109.0,1210.0,19,545.0,58.3,27.2,0,0,376
+Dar es Salaam,Tabora - Shinyanga,Ferry,Weekday,Afternoon (1-3pm),Heavy Rain,Long Rains,119.0,910.0,27,3113.0,18.0,22.3,0,0,337
+Tabora,Ubungo - Kariakoo,Bus,Weekday,Midday (10am-12pm),Sunny,Dry Season,26.6,1700.0,6,5174.0,48.0,20.2,0,1,327
+Arusha,Mbeya - Songea,Ferry,Weekday,Early Morning (5-7am),Rainy,Dry Season,43.9,3970.0,35,10290.0,15.1,28.6,0,0,426
+Tanga,Mwanza - Musoma,Bus,Public Holiday,Early Morning (5-7am),Sunny,Long Rains,81.0,2520.0,37,9683.0,41.5,31.8,1,1,496
+Mwanza,Dodoma - Kondoa,Ferry,Weekday,Midday (10am-12pm),Sunny,Short Rains,59.1,1370.0,34,3572.0,16.7,35.9,1,1,492
+Iringa,Iringa - Morogoro,Bus,Weekend,Midday (10am-12pm),Rainy,Long Rains,51.4,1080.0,20,3312.0,53.3,31.6,1,1,275
+Arusha,City Centre - Airport,Bus,Weekday,Early Morning (5-7am),Sunny,Dry Season,44.2,1860.0,25,3114.0,34.6,32.3,1,1,434
+Mbeya,Dodoma - Kondoa,Bus,Weekday,Midday (10am-12pm),Rainy,Long Rains,72.1,4720.0,4,4401.0,12.8,29.1,0,0,219
+Arusha,Mwanza - Musoma,Bus,Weekday,Morning Peak (7-9am),Heavy Rain,Dry Season,69.9,1910.0,10,6229.0,15.0,35.7,1,0,481
+Tanga,Dodoma - Kondoa,Taxi,Weekday,Afternoon (1-3pm),Rainy,Long Rains,21.1,4940.0,10,5545.0,30.6,29.5,1,0,208
+Mbeya,Mwanza - Musoma,Daladala,Weekday,Afternoon (1-3pm),Sunny,Long Rains,57.7,2580.0,24,3010.0,57.8,33.5,0,1,262
+Iringa,Mwanza - Musoma,BRT,Public Holiday,Afternoon (1-3pm),Rainy,Short Rains,67.3,1140.0,21,2000.0,46.6,35.0,0,0,353
+Tanga,Tanga - Korogwe,Tuk-tuk,Weekday,Morning Peak (7-9am),Sunny,Dry Season,69.3,4490.0,11,645.0,30.3,34.7,1,0,326
+Dodoma,Arusha - Moshi,BRT,Weekday,Midday (10am-12pm),Rainy,Short Rains,26.8,2460.0,27,2271.0,21.6,24.9,1,0,402
+Mwanza,Mbeya - Songea,BRT,Weekday,Evening Peak (4-7pm),Cloudy,Dry Season,89.6,3640.0,16,8612.0,33.9,19.4,1,1,561
+Iringa,Tanga - Korogwe,Ferry,Weekday,Midday (10am-12pm),Rainy,Long Rains,5.0,4920.0,26,3302.0,45.4,21.1,1,0,274
+Dodoma,Iringa - Morogoro,Daladala,Weekday,Early Morning (5-7am),Sunny,Dry Season,43.9,540.0,30,5889.0,47.5,19.1,1,1,438
+Tabora,Tanga - Korogwe,Ferry,Weekday,Night (8-10pm),Cloudy,Short Rains,94.1,750.0,16,7300.0,20.8,19.9,0,0,338
+Iringa,Mbezi - Posta,Daladala,Weekday,Afternoon (1-3pm),Sunny,Short Rains,68.5,3690.0,7,10699.0,43.8,21.3,0,1,316
+Tabora,Mbezi - Posta,Daladala,Weekday,Midday (10am-12pm),Rainy,Short Rains,32.8,1620.0,16,10722.0,40.2,24.1,1,0,383
+Mbeya,Mbeya - Songea,Bus,Weekday,Evening Peak (4-7pm),Sunny,Dry Season,84.0,1170.0,35,9076.0,57.6,27.8,1,1,605
+Dodoma,Dodoma - Kondoa,Taxi,Weekday,Early Morning (5-7am),Cloudy,Short Rains,69.0,490.0,16,904.0,56.0,30.8,1,1,311
+Mwanza,Arusha - Moshi,Bus,Weekday,Morning Peak (7-9am),Rainy,Short Rains,96.0,400.0,12,7113.0,47.8,21.8,1,0,475
+Tanga,Mbeya - Songea,Taxi,Weekday,Morning Peak (7-9am),Cloudy,Short Rains,88.7,3940.0,35,9546.0,44.0,30.1,1,1,505
+Zanzibar,Mwanza - Musoma,Ferry,Public Holiday,Evening Peak (4-7pm),Sunny,Long Rains,74.0,930.0,21,699.0,17.9,30.7,1,1,525
+Arusha,Ubungo - Kariakoo,Taxi,Weekday,Early Morning (5-7am),Cloudy,Long Rains,59.6,2500.0,36,6821.0,51.1,28.1,1,1,389
+Dar es Salaam,Arusha - Moshi,Ferry,Weekday,Afternoon (1-3pm),Sunny,Dry Season,17.7,3150.0,17,10364.0,26.8,34.3,1,1,434
+Mwanza,Arusha - Moshi,BRT,Weekday,Midday (10am-12pm),Sunny,Dry Season,32.8,2310.0,32,5952.0,17.8,20.0,0,0,468
+Dodoma,Mwanza - Musoma,BRT,Public Holiday,Early Morning (5-7am),Sunny,Short Rains,51.5,430.0,6,547.0,24.3,21.2,1,1,403
+Zanzibar,Mwanza - Musoma,Taxi,Weekday,Morning Peak (7-9am),Sunny,Long Rains,72.7,3980.0,24,627.0,50.5,25.7,1,1,364
+Mwanza,City Centre - Airport,Taxi,Weekday,Evening Peak (4-7pm),Sunny,Short Rains,62.6,350.0,27,5291.0,10.6,20.3,1,1,508
+Dodoma,Mbeya - Songea,Ferry,Weekend,Evening Peak (4-7pm),Cloudy,Short Rains,36.0,3880.0,20,2283.0,28.5,28.2,0,1,435
+Morogoro,Mwanza - Musoma,Bus,Weekday,Midday (10am-12pm),Sunny,Long Rains,2.8,4500.0,25,8141.0,30.6,25.2,1,0,347
+Morogoro,Mbezi - Posta,Ferry,Weekday,Evening Peak (4-7pm),Sunny,Long Rains,60.6,2330.0,2,8651.0,4.1,23.1,1,1,569
+Tabora,Iringa - Morogoro,Bus,Weekday,Evening Peak (4-7pm),Heavy Rain,Long Rains,35.7,2820.0,9,2546.0,13.4,21.1,1,1,373
+Mwanza,Ubungo - Kariakoo,BRT,Weekday,Early Morning (5-7am),Sunny,Dry Season,88.7,2540.0,28,10718.0,50.0,24.0,1,0,490
+Morogoro,Mbeya - Songea,Daladala,Public Holiday,Afternoon (1-3pm),Cloudy,Dry Season,4.8,2130.0,38,5582.0,50.2,28.9,0,1,401
+Dodoma,Tabora - Shinyanga,Taxi,Weekend,Midday (10am-12pm),Rainy,Short Rains,71.0,4470.0,3,2143.0,19.0,28.4,1,1,177
+Tabora,Mbezi - Posta,Bus,Weekday,Early Morning (5-7am),Heavy Rain,Dry Season,113.1,4500.0,20,9289.0,52.7,20.9,1,0,284
+Dodoma,Dodoma - Kondoa,Ferry,Weekday,Afternoon (1-3pm),Cloudy,Long Rains,22.6,1880.0,6,9585.0,46.8,20.2,1,0,345
+Tabora,Mwanza - Musoma,BRT,Weekday,Early Morning (5-7am),Cloudy,Long Rains,57.7,3190.0,39,7852.0,26.2,18.5,0,1,430
+Mwanza,Tabora - Shinyanga,Bus,Weekday,Night (8-10pm),Rainy,Dry Season,12.8,4660.0,33,10315.0,45.4,18.2,0,0,280
+Zanzibar,Mwanza - Musoma,Ferry,Weekend,Early Morning (5-7am),Sunny,Short Rains,75.8,4820.0,1,8980.0,57.8,33.8,1,0,258
+Tanga,Arusha - Moshi,Taxi,Weekday,Evening Peak (4-7pm),Rainy,Short Rains,67.0,2690.0,37,10645.0,28.6,18.8,1,0,491
+Iringa,Mbezi - Posta,Taxi,Weekday,Afternoon (1-3pm),Sunny,Dry Season,50.1,2430.0,6,5490.0,15.8,31.2,1,0,312
+Zanzibar,Arusha - Moshi,Tuk-tuk,Weekend,Midday (10am-12pm),Heavy Rain,Short Rains,63.5,1610.0,34,9097.0,56.6,33.7,0,1,278
+Mbeya,City Centre - Airport,Daladala,Weekday,Midday (10am-12pm),Sunny,Short Rains,107.8,4810.0,15,11997.0,37.0,19.8,1,0,367
+Dodoma,Arusha - Moshi,Tuk-tuk,Weekday,Afternoon (1-3pm),Cloudy,Short Rains,25.2,970.0,26,8837.0,8.1,25.9,1,1,481
+Mbeya,City Centre - Airport,BRT,Weekday,Evening Peak (4-7pm),Sunny,Long Rains,4.7,3030.0,14,1813.0,35.2,35.3,0,1,441
+Zanzibar,City Centre - Airport,Bus,Public Holiday,Morning Peak (7-9am),Cloudy,Long Rains,103.7,1630.0,7,6461.0,31.0,33.0,1,1,531
+Tabora,Tabora - Shinyanga,BRT,Weekday,Early Morning (5-7am),Sunny,Dry Season,70.1,1610.0,31,7254.0,51.6,26.8,1,0,425
+Iringa,Mwanza - Musoma,Ferry,Weekday,Evening Peak (4-7pm),Rainy,Long Rains,107.1,2200.0,24,2503.0,32.8,31.7,1,1,424
+Iringa,Dodoma - Kondoa,Taxi,Weekday,Night (8-10pm),Rainy,Short Rains,72.4,4990.0,31,11573.0,16.8,33.0,0,0,262
+Dar es Salaam,Arusha - Moshi,Tuk-tuk,Weekday,Afternoon (1-3pm),Sunny,Long Rains,97.6,560.0,29,2519.0,41.2,24.3,1,0,269
+Iringa,Mbezi - Posta,Tuk-tuk,Weekend,Early Morning (5-7am),Rainy,Dry Season,52.7,3020.0,32,2542.0,33.5,34.1,0,1,246
+Tanga,City Centre - Airport,Tuk-tuk,Weekend,Midday (10am-12pm),Rainy,Long Rains,90.5,690.0,17,11024.0,15.5,26.5,0,1,389
+Iringa,Mwanza - Musoma,BRT,Weekday,Morning Peak (7-9am),Cloudy,Short Rains,109.7,1030.0,14,5850.0,35.3,27.5,0,1,508
+Zanzibar,Ubungo - Kariakoo,Taxi,Weekday,Night (8-10pm),Sunny,Short Rains,69.5,2370.0,36,1227.0,49.6,36.0,1,1,246
+Dar es Salaam,Mbeya - Songea,Bus,Weekday,Midday (10am-12pm),Sunny,Dry Season,23.3,2700.0,24,7379.0,3.7,33.2,0,1,472
+Zanzibar,Tabora - Shinyanga,Ferry,Weekday,Afternoon (1-3pm),Sunny,Long Rains,33.7,1520.0,27,7421.0,38.6,24.5,1,1,387
+Zanzibar,Dodoma - Kondoa,Bus,Weekday,Early Morning (5-7am),Sunny,Long Rains,25.4,1790.0,25,1242.0,22.3,18.2,0,1,348
+Arusha,Tanga - Korogwe,BRT,Weekend,Afternoon (1-3pm),Heavy Rain,Long Rains,31.1,710.0,32,11684.0,19.0,29.3,0,0,467
+Dar es Salaam,Tabora - Shinyanga,Ferry,Weekday,Early Morning (5-7am),Sunny,Short Rains,38.2,1730.0,18,6756.0,24.8,30.7,1,0,388
+Zanzibar,Ubungo - Kariakoo,Tuk-tuk,Weekday,Evening Peak (4-7pm),Rainy,Dry Season,67.5,4840.0,18,6938.0,21.8,29.7,0,1,348
+Arusha,Mbeya - Songea,Daladala,Weekday,Morning Peak (7-9am),Sunny,Long Rains,71.4,4740.0,37,6481.0,50.3,35.4,1,1,500
+Arusha,Ubungo - Kariakoo,BRT,Weekend,Evening Peak (4-7pm),Cloudy,Short Rains,52.3,1870.0,26,7523.0,17.9,33.5,0,0,500
+Dar es Salaam,Arusha - Moshi,BRT,Weekend,Evening Peak (4-7pm),Rainy,Short Rains,74.6,2980.0,9,3539.0,44.5,26.1,0,0,366
+Mbeya,City Centre - Airport,Taxi,Weekend,Afternoon (1-3pm),Rainy,Short Rains,11.6,4580.0,35,3803.0,7.5,19.1,0,0,213
+Tabora,Dodoma - Kondoa,Bus,Weekday,Morning Peak (7-9am),Sunny,Long Rains,12.4,330.0,8,6380.0,57.2,26.6,1,1,540
+Tanga,Iringa - Morogoro,BRT,Weekday,Early Morning (5-7am),Sunny,Long Rains,22.3,4110.0,20,9777.0,38.1,30.4,0,1,395
+Tabora,City Centre - Airport,BRT,Weekend,Early Morning (5-7am),Sunny,Long Rains,63.1,4760.0,22,1073.0,43.0,28.9,1,1,298
+Iringa,Iringa - Morogoro,Tuk-tuk,Weekday,Night (8-10pm),Sunny,Long Rains,27.3,730.0,19,7439.0,19.3,27.7,1,1,401
+Tanga,Mbeya - Songea,Tuk-tuk,Weekday,Midday (10am-12pm),Sunny,Long Rains,35.4,1060.0,30,9778.0,25.9,26.4,1,1,474
+Iringa,Mwanza - Musoma,Ferry,Weekend,Night (8-10pm),Sunny,Long Rains,49.2,4820.0,28,2305.0,15.0,23.3,1,0,297
+Zanzibar,Tanga - Korogwe,Daladala,Weekend,Night (8-10pm),Sunny,Long Rains,97.8,2830.0,35,673.0,56.1,23.0,1,0,184
+Dodoma,Mbezi - Posta,Taxi,Weekday,Early Morning (5-7am),Cloudy,Long Rains,3.6,370.0,11,4096.0,30.3,27.0,1,0,274
+Dar es Salaam,City Centre - Airport,Daladala,Weekday,Afternoon (1-3pm),Sunny,Long Rains,78.6,1510.0,31,7264.0,38.6,20.9,0,1,415
+Tanga,Dodoma - Kondoa,Ferry,Weekday,Evening Peak (4-7pm),Sunny,Short Rains,80.9,2410.0,39,2090.0,44.6,24.1,0,0,430
+Tanga,Ubungo - Kariakoo,Tuk-tuk,Weekday,Evening Peak (4-7pm),Sunny,Long Rains,96.2,3560.0,36,5400.0,23.5,23.8,0,1,416
+Zanzibar,Dodoma - Kondoa,Bus,Weekday,Evening Peak (4-7pm),Cloudy,Dry Season,112.1,3750.0,30,6852.0,43.8,28.6,0,1,462
+Mbeya,Mbeya - Songea,Tuk-tuk,Weekend,Morning Peak (7-9am),Rainy,Short Rains,4.4,4980.0,23,7387.0,41.2,19.2,0,0,322
+Arusha,Iringa - Morogoro,Taxi,Weekend,Early Morning (5-7am),Cloudy,Long Rains,20.1,1650.0,19,3656.0,42.9,32.9,1,1,300
+Zanzibar,Ubungo - Kariakoo,Tuk-tuk,Weekend,Afternoon (1-3pm),Rainy,Dry Season,106.6,2830.0,12,5100.0,30.4,28.1,1,1,299
+Morogoro,Mbezi - Posta,Taxi,Weekday,Morning Peak (7-9am),Sunny,Long Rains,56.1,2810.0,15,9451.0,24.2,30.1,1,0,436
+Arusha,Mbezi - Posta,Taxi,Weekend,Midday (10am-12pm),Cloudy,Dry Season,68.6,2210.0,31,11324.0,14.9,30.7,0,0,409
+Dar es Salaam,City Centre - Airport,Taxi,Weekend,Afternoon (1-3pm),Sunny,Dry Season,80.2,1100.0,37,10412.0,49.8,23.2,0,1,376
+Arusha,Mbeya - Songea,Ferry,Weekday,Night (8-10pm),Sunny,Dry Season,82.1,4890.0,37,6989.0,37.3,26.5,1,0,372
+Mbeya,Mwanza - Musoma,Taxi,Weekend,Afternoon (1-3pm),Cloudy,Dry Season,111.9,4310.0,15,5218.0,27.8,35.2,1,0,272
+Arusha,Mbeya - Songea,Taxi,Weekend,Afternoon (1-3pm),Rainy,Short Rains,119.6,2640.0,29,4329.0,56.8,31.8,1,1,289
+Dar es Salaam,Iringa - Morogoro,Bus,Weekday,Evening Peak (4-7pm),Sunny,Short Rains,87.0,3140.0,26,1937.0,4.8,35.5,1,1,464
+Mbeya,Dodoma - Kondoa,Daladala,Weekday,Afternoon (1-3pm),Cloudy,Dry Season,35.9,1370.0,2,1725.0,51.3,31.4,1,0,271
+Tabora,Mbezi - Posta,BRT,Weekday,Night (8-10pm),Cloudy,Long Rains,105.8,2860.0,20,8416.0,59.9,21.2,1,1,402
+Tanga,Dodoma - Kondoa,Daladala,Weekday,Night (8-10pm),Sunny,Dry Season,7.8,3570.0,15,3488.0,53.4,19.2,0,1,234
+Tanga,Dodoma - Kondoa,Taxi,Weekday,Early Morning (5-7am),Sunny,Short Rains,29.3,2720.0,4,3429.0,49.0,28.4,1,0,200
+Iringa,Dodoma - Kondoa,Bus,Weekend,Afternoon (1-3pm),Sunny,Long Rains,107.9,4950.0,22,11979.0,23.7,24.4,1,1,387
+Tabora,Mbezi - Posta,Tuk-tuk,Weekday,Evening Peak (4-7pm),Sunny,Short Rains,32.2,3170.0,38,2661.0,15.4,23.0,0,0,449
+Tabora,Tabora - Shinyanga,Bus,Weekday,Afternoon (1-3pm),Sunny,Short Rains,28.0,2040.0,23,2203.0,44.6,32.5,1,0,320
+Arusha,Arusha - Moshi,Taxi,Weekday,Midday (10am-12pm),Sunny,Long Rains,18.3,3930.0,26,1635.0,19.7,24.6,1,1,304
+Tanga,Iringa - Morogoro,Bus,Weekday,Midday (10am-12pm),Sunny,Dry Season,103.4,1100.0,11,7168.0,12.2,23.7,1,1,463
+Dar es Salaam,Tabora - Shinyanga,Bus,Weekday,Evening Peak (4-7pm),Cloudy,Dry Season,61.0,2110.0,28,7720.0,47.6,33.3,0,0,490
+Mwanza,Iringa - Morogoro,Taxi,Weekday,Early Morning (5-7am),Cloudy,Dry Season,81.6,1930.0,2,4700.0,20.1,33.2,1,1,350
+Mwanza,Ubungo - Kariakoo,Ferry,Weekday,Early Morning (5-7am),Heavy Rain,Dry Season,30.2,2330.0,8,6657.0,55.0,24.4,1,1,289
+Mbeya,Mbeya - Songea,Bus,Weekday,Night (8-10pm),Sunny,Long Rains,91.4,3970.0,29,9567.0,50.8,33.0,1,1,360
+Tanga,Mbeya - Songea,BRT,Weekday,Night (8-10pm),Rainy,Long Rains,91.7,2580.0,11,9908.0,51.2,33.3,0,0,283
+Tanga,Tanga - Korogwe,BRT,Weekday,Morning Peak (7-9am),Rainy,Long Rains,38.9,4030.0,37,11516.0,46.8,25.6,1,1,565
+Mwanza,Mbeya - Songea,Bus,Weekend,Evening Peak (4-7pm),Cloudy,Short Rains,50.5,3010.0,18,9979.0,53.1,19.2,1,0,452
+Tanga,Mbezi - Posta,Ferry,Weekday,Afternoon (1-3pm),Sunny,Long Rains,26.7,1910.0,14,6996.0,48.7,18.0,0,0,367
+Arusha,Mwanza - Musoma,Tuk-tuk,Weekend,Evening Peak (4-7pm),Rainy,Dry Season,117.2,4110.0,10,2566.0,36.9,27.4,0,1,234
+Morogoro,City Centre - Airport,Taxi,Weekday,Morning Peak (7-9am),Sunny,Short Rains,78.2,1420.0,35,1647.0,19.2,24.2,1,1,504
+Dodoma,Tanga - Korogwe,BRT,Weekday,Night (8-10pm),Sunny,Dry Season,112.3,1350.0,9,1127.0,53.5,35.9,1,1,337
+Tabora,City Centre - Airport,Tuk-tuk,Weekday,Evening Peak (4-7pm),Cloudy,Dry Season,37.8,2670.0,35,8165.0,50.8,31.9,0,0,428
+Iringa,Iringa - Morogoro,Bus,Weekday,Evening Peak (4-7pm),Cloudy,Long Rains,94.3,1530.0,11,9787.0,29.4,31.7,1,0,578
+Mbeya,City Centre - Airport,Tuk-tuk,Weekday,Night (8-10pm),Sunny,Long Rains,92.4,340.0,12,6350.0,4.3,35.2,1,1,370
+Morogoro,City Centre - Airport,Daladala,Weekday,Morning Peak (7-9am),Heavy Rain,Dry Season,83.6,3350.0,3,1129.0,39.0,34.0,0,0,249
+Mwanza,Tanga - Korogwe,BRT,Weekday,Night (8-10pm),Cloudy,Dry Season,115.9,2700.0,39,6658.0,4.9,23.7,1,1,464
+Tabora,Ubungo - Kariakoo,Bus,Weekday,Early Morning (5-7am),Sunny,Short Rains,48.4,2390.0,14,11261.0,55.7,21.0,0,0,332
+Tanga,Dodoma - Kondoa,Taxi,Weekday,Afternoon (1-3pm),Heavy Rain,Long Rains,17.4,4840.0,28,7373.0,57.8,31.4,1,1,205
+Iringa,Mbeya - Songea,Ferry,Weekday,Night (8-10pm),Sunny,Short Rains,81.3,2980.0,11,9808.0,13.0,24.8,1,1,444
+Tanga,Mbeya - Songea,Bus,Weekday,Morning Peak (7-9am),Heavy Rain,Short Rains,88.1,4360.0,39,9702.0,41.2,26.5,1,1,508
+Dar es Salaam,Mbezi - Posta,Taxi,Weekday,Midday (10am-12pm),Cloudy,Short Rains,69.9,960.0,25,11219.0,7.4,29.3,0,1,433
+Dar es Salaam,Tanga - Korogwe,Ferry,Weekend,Early Morning (5-7am),Sunny,Dry Season,26.4,2980.0,21,9358.0,44.3,34.3,0,1,366
+Iringa,Mbezi - Posta,Ferry,Public Holiday,Midday (10am-12pm),Rainy,Short Rains,61.5,4380.0,10,9099.0,22.1,25.5,1,0,405
+Iringa,Mwanza - Musoma,Bus,Weekday,Night (8-10pm),Cloudy,Short Rains,38.8,3040.0,15,3192.0,41.5,32.1,1,0,274
+Mwanza,Mwanza - Musoma,Tuk-tuk,Weekend,Early Morning (5-7am),Rainy,Dry Season,52.4,3670.0,19,1189.0,23.6,22.8,1,1,284
+Iringa,Mbezi - Posta,Tuk-tuk,Weekday,Afternoon (1-3pm),Heavy Rain,Long Rains,78.1,2050.0,22,6452.0,10.4,30.6,1,0,289
+Arusha,Tanga - Korogwe,Ferry,Weekday,Night (8-10pm),Rainy,Long Rains,89.9,730.0,21,1931.0,25.6,18.0,1,1,371
+Tanga,Mbezi - Posta,Tuk-tuk,Weekday,Afternoon (1-3pm),Cloudy,Short Rains,29.4,2450.0,32,11565.0,8.5,33.7,0,0,422
+Morogoro,Mbeya - Songea,Daladala,Weekend,Evening Peak (4-7pm),Rainy,Dry Season,49.8,2150.0,23,3834.0,35.5,18.5,0,0,398
+Zanzibar,Tabora - Shinyanga,Ferry,Weekday,Midday (10am-12pm),Cloudy,Long Rains,33.8,4380.0,13,10309.0,4.4,30.8,0,1,395
+Iringa,Arusha - Moshi,Ferry,Weekday,Early Morning (5-7am),Sunny,Short Rains,25.4,1450.0,5,4958.0,32.6,18.8,1,1,389
+Mbeya,City Centre - Airport,Taxi,Weekday,Afternoon (1-3pm),Rainy,Short Rains,94.4,4840.0,4,4217.0,53.4,22.8,0,1,125
+Dar es Salaam,Arusha - Moshi,Tuk-tuk,Weekend,Morning Peak (7-9am),Sunny,Dry Season,109.3,4800.0,28,11254.0,50.6,26.9,0,1,432
+Arusha,Tanga - Korogwe,Ferry,Weekend,Afternoon (1-3pm),Cloudy,Short Rains,45.7,1460.0,14,4678.0,53.2,25.6,1,1,340
+Tabora,Arusha - Moshi,Daladala,Weekend,Morning Peak (7-9am),Rainy,Long Rains,90.7,1940.0,8,4988.0,55.5,21.5,0,0,259
+Zanzibar,Mwanza - Musoma,Taxi,Weekday,Night (8-10pm),Cloudy,Dry Season,107.8,4510.0,9,1720.0,8.1,24.0,1,0,243
+Morogoro,Iringa - Morogoro,Bus,Weekday,Early Morning (5-7am),Cloudy,Long Rains,101.8,4840.0,35,8210.0,9.5,31.1,0,1,407
+Zanzibar,City Centre - Airport,Ferry,Weekday,Afternoon (1-3pm),Rainy,Long Rains,23.6,2380.0,37,3822.0,34.3,30.0,0,1,337
+Iringa,Dodoma - Kondoa,Daladala,Weekday,Afternoon (1-3pm),Sunny,Long Rains,114.8,1810.0,21,7234.0,53.9,19.3,1,1,386
+Mwanza,Tanga - Korogwe,BRT,Weekday,Early Morning (5-7am),Rainy,Short Rains,46.4,2770.0,18,7301.0,58.5,31.5,0,1,356
+Dar es Salaam,City Centre - Airport,Daladala,Weekday,Afternoon (1-3pm),Sunny,Short Rains,42.0,3530.0,33,8771.0,4.7,19.0,1,0,459
+Dar es Salaam,Arusha - Moshi,Daladala,Public Holiday,Morning Peak (7-9am),Sunny,Long Rains,9.4,1590.0,8,9070.0,22.6,27.8,1,0,507
+Tabora,Mwanza - Musoma,Taxi,Weekend,Afternoon (1-3pm),Sunny,Long Rains,59.4,3760.0,17,6416.0,14.3,22.7,0,1,250
+Mwanza,Ubungo - Kariakoo,Bus,Weekend,Midday (10am-12pm),Cloudy,Dry Season,14.9,540.0,31,4306.0,45.8,28.6,0,0,363
+Tanga,Tabora - Shinyanga,BRT,Public Holiday,Night (8-10pm),Cloudy,Dry Season,31.3,530.0,34,10131.0,39.1,22.7,1,0,556
+Dodoma,Dodoma - Kondoa,Tuk-tuk,Weekday,Evening Peak (4-7pm),Rainy,Short Rains,39.4,2120.0,6,4063.0,9.0,35.7,0,0,345
+Arusha,Tabora - Shinyanga,Tuk-tuk,Weekday,Morning Peak (7-9am),Sunny,Short Rains,97.4,1960.0,22,6336.0,30.0,23.6,0,0,495
+Dar es Salaam,City Centre - Airport,Daladala,Public Holiday,Midday (10am-12pm),Sunny,Dry Season,105.3,1780.0,14,5114.0,41.8,22.4,1,1,374
+Mbeya,Mwanza - Musoma,Taxi,Weekday,Night (8-10pm),Sunny,Long Rains,37.7,2610.0,3,10333.0,47.2,23.0,1,1,258
+Dar es Salaam,Mwanza - Musoma,Taxi,Weekday,Early Morning (5-7am),Sunny,Short Rains,103.3,1810.0,12,5467.0,3.2,34.1,1,1,311
+Zanzibar,Arusha - Moshi,Tuk-tuk,Weekday,Morning Peak (7-9am),Cloudy,Long Rains,103.2,1200.0,36,4940.0,53.6,29.5,1,1,508
+Dar es Salaam,Mbeya - Songea,BRT,Weekday,Evening Peak (4-7pm),Sunny,Dry Season,92.2,1750.0,12,8433.0,35.0,31.2,1,0,580
+Dar es Salaam,Arusha - Moshi,Bus,Weekday,Night (8-10pm),Sunny,Short Rains,19.3,4880.0,2,7428.0,49.1,34.5,0,1,245
+Dodoma,Mbeya - Songea,BRT,Public Holiday,Evening Peak (4-7pm),Sunny,Short Rains,83.5,2230.0,2,1733.0,48.9,34.4,1,0,440
+Dodoma,Mbeya - Songea,Ferry,Weekend,Early Morning (5-7am),Sunny,Dry Season,113.5,2390.0,15,6344.0,13.0,31.3,1,0,353
+Morogoro,Dodoma - Kondoa,Ferry,Weekday,Early Morning (5-7am),Sunny,Short Rains,82.5,3010.0,23,8958.0,8.4,21.6,0,0,405
+Tanga,Arusha - Moshi,Bus,Weekend,Morning Peak (7-9am),Sunny,Dry Season,41.1,4920.0,29,11909.0,43.8,33.2,1,1,563
+Mbeya,Ubungo - Kariakoo,Tuk-tuk,Weekday,Afternoon (1-3pm),Cloudy,Short Rains,61.1,1440.0,17,7735.0,11.1,21.7,0,1,338
+Dar es Salaam,Mbezi - Posta,Bus,Weekday,Early Morning (5-7am),Rainy,Dry Season,78.2,3500.0,32,4758.0,51.3,31.4,0,1,310
+Dar es Salaam,Mbezi - Posta,Taxi,Weekday,Night (8-10pm),Cloudy,Short Rains,62.2,3670.0,7,3101.0,44.1,30.3,1,1,161
+Arusha,Arusha - Moshi,Ferry,Weekday,Afternoon (1-3pm),Heavy Rain,Long Rains,16.2,3150.0,30,10538.0,50.8,31.7,1,0,341
+Dodoma,Arusha - Moshi,Daladala,Weekday,Midday (10am-12pm),Sunny,Long Rains,38.8,720.0,28,9867.0,19.3,27.6,0,1,482
+Mbeya,Tabora - Shinyanga,Daladala,Public Holiday,Evening Peak (4-7pm),Cloudy,Long Rains,96.7,3480.0,14,3190.0,20.4,29.5,0,1,441
+Tabora,Dodoma - Kondoa,Tuk-tuk,Weekday,Afternoon (1-3pm),Heavy Rain,Short Rains,103.6,600.0,30,2807.0,40.9,35.2,1,0,240
+Morogoro,Arusha - Moshi,Taxi,Weekday,Evening Peak (4-7pm),Sunny,Short Rains,18.2,3100.0,17,8724.0,3.8,19.8,1,0,453
+Tanga,Tabora - Shinyanga,BRT,Weekday,Afternoon (1-3pm),Heavy Rain,Long Rains,114.4,3780.0,32,4122.0,44.1,23.6,1,1,347
+Mwanza,Mbeya - Songea,Taxi,Weekend,Midday (10am-12pm),Sunny,Long Rains,40.8,1290.0,6,4024.0,50.5,29.0,1,1,262
+Tanga,Mwanza - Musoma,Daladala,Weekend,Early Morning (5-7am),Sunny,Dry Season,80.2,4260.0,24,2251.0,26.1,35.4,0,1,264
+Zanzibar,Mwanza - Musoma,Daladala,Weekend,Midday (10am-12pm),Sunny,Dry Season,90.7,440.0,6,3536.0,46.4,19.7,0,1,317
+Dar es Salaam,Mbeya - Songea,Ferry,Weekday,Early Morning (5-7am),Cloudy,Dry Season,97.8,4270.0,27,5416.0,12.1,18.4,1,1,441
+Morogoro,Tanga - Korogwe,Taxi,Weekday,Early Morning (5-7am),Cloudy,Long Rains,113.6,2460.0,18,8928.0,20.7,19.0,1,0,269
+Zanzibar,Tabora - Shinyanga,Taxi,Weekday,Evening Peak (4-7pm),Cloudy,Long Rains,38.9,1320.0,24,4368.0,58.5,18.9,0,0,337
+Mbeya,Tabora - Shinyanga,Daladala,Weekday,Night (8-10pm),Sunny,Long Rains,103.3,930.0,37,4279.0,59.2,34.3,0,0,271
+Mwanza,Mbeya - Songea,BRT,Weekday,Midday (10am-12pm),Sunny,Dry Season,17.5,4780.0,24,3777.0,31.7,31.0,1,0,404
+Dodoma,Ubungo - Kariakoo,Tuk-tuk,Public Holiday,Afternoon (1-3pm),Sunny,Short Rains,85.2,640.0,38,6000.0,56.2,30.2,1,1,444
+Morogoro,Iringa - Morogoro,Tuk-tuk,Weekday,Midday (10am-12pm),Sunny,Long Rains,89.6,1240.0,34,2577.0,32.3,27.4,1,1,333
+Morogoro,City Centre - Airport,Taxi,Weekday,Evening Peak (4-7pm),Heavy Rain,Short Rains,82.0,1930.0,15,6085.0,18.9,32.1,0,1,380
+Dar es Salaam,Mbeya - Songea,Tuk-tuk,Weekday,Early Morning (5-7am),Sunny,Short Rains,31.8,3220.0,11,8598.0,17.5,20.8,1,0,306
+Iringa,Arusha - Moshi,Daladala,Weekday,Evening Peak (4-7pm),Rainy,Short Rains,105.0,2860.0,22,843.0,55.9,25.1,1,1,377
+Morogoro,Arusha - Moshi,Daladala,Weekday,Morning Peak (7-9am),Rainy,Dry Season,21.9,890.0,24,612.0,12.0,26.8,1,0,477
+Arusha,Dodoma - Kondoa,Taxi,Weekday,Morning Peak (7-9am),Sunny,Short Rains,8.3,1660.0,1,1364.0,35.6,20.0,1,0,348
+Mwanza,Mbeya - Songea,Taxi,Weekday,Afternoon (1-3pm),Cloudy,Long Rains,86.7,1420.0,18,6660.0,34.2,25.6,1,1,380
+Mwanza,Dodoma - Kondoa,Ferry,Weekend,Evening Peak (4-7pm),Sunny,Dry Season,58.1,1300.0,12,10326.0,44.9,23.7,1,1,559
+Arusha,Mbeya - Songea,Taxi,Public Holiday,Afternoon (1-3pm),Sunny,Long Rains,102.2,2230.0,28,556.0,31.0,18.6,1,0,307
+Tabora,Tabora - Shinyanga,BRT,Weekday,Afternoon (1-3pm),Sunny,Long Rains,47.2,3610.0,7,11272.0,17.8,20.5,1,0,403
+Arusha,City Centre - Airport,Tuk-tuk,Weekday,Morning Peak (7-9am),Cloudy,Dry Season,21.9,1320.0,23,1722.0,11.8,31.8,1,1,538
+Arusha,Tabora - Shinyanga,Taxi,Weekend,Afternoon (1-3pm),Sunny,Long Rains,100.7,2020.0,21,10183.0,38.0,18.3,1,0,295
+Mwanza,Iringa - Morogoro,Bus,Weekday,Morning Peak (7-9am),Cloudy,Long Rains,66.8,2140.0,34,6053.0,43.7,34.8,1,0,504
+Tanga,Mwanza - Musoma,Ferry,Weekday,Early Morning (5-7am),Cloudy,Dry Season,24.3,4890.0,11,8083.0,35.0,19.6,1,1,340
+Mwanza,Mbezi - Posta,Bus,Weekend,Evening Peak (4-7pm),Sunny,Long Rains,87.0,4790.0,22,6373.0,44.8,32.4,1,0,402
+Iringa,Mbeya - Songea,Daladala,Weekday,Afternoon (1-3pm),Cloudy,Short Rains,62.3,4060.0,35,5986.0,10.2,34.2,1,0,428
+Dar es Salaam,Iringa - Morogoro,Tuk-tuk,Weekday,Morning Peak (7-9am),Rainy,Long Rains,73.3,1440.0,29,10101.0,53.2,34.9,1,0,451
+Zanzibar,Mwanza - Musoma,Taxi,Weekday,Midday (10am-12pm),Sunny,Short Rains,56.4,620.0,28,9193.0,35.8,33.6,1,1,413
+Tanga,Tanga - Korogwe,Bus,Weekday,Afternoon (1-3pm),Sunny,Long Rains,99.8,1790.0,18,6059.0,9.4,23.2,1,1,476
+Dodoma,City Centre - Airport,Tuk-tuk,Weekday,Night (8-10pm),Cloudy,Dry Season,99.9,1550.0,14,1784.0,28.8,24.0,1,0,267
+Zanzibar,Dodoma - Kondoa,Daladala,Weekend,Early Morning (5-7am),Sunny,Dry Season,85.7,2680.0,18,1827.0,51.0,25.7,0,0,229
+Dar es Salaam,Dodoma - Kondoa,BRT,Weekday,Early Morning (5-7am),Cloudy,Long Rains,14.4,3960.0,28,9718.0,54.1,20.5,1,0,386
+Iringa,Tabora - Shinyanga,Ferry,Weekday,Midday (10am-12pm),Sunny,Dry Season,101.0,4330.0,24,6588.0,17.3,18.4,0,0,402
+Iringa,Arusha - Moshi,Tuk-tuk,Weekend,Morning Peak (7-9am),Sunny,Long Rains,81.2,4270.0,8,6038.0,43.3,33.6,0,1,321
+Dodoma,Mwanza - Musoma,Tuk-tuk,Weekday,Afternoon (1-3pm),Sunny,Dry Season,84.2,1990.0,8,8327.0,7.8,28.0,1,1,384
+Tanga,Tanga - Korogwe,BRT,Weekday,Morning Peak (7-9am),Sunny,Short Rains,44.8,3530.0,4,10377.0,3.9,29.0,0,0,511
+Tabora,Iringa - Morogoro,Tuk-tuk,Weekend,Early Morning (5-7am),Cloudy,Long Rains,105.8,1770.0,27,7732.0,34.5,34.7,0,0,256
+Arusha,City Centre - Airport,Daladala,Weekday,Morning Peak (7-9am),Sunny,Short Rains,87.6,590.0,36,9273.0,42.3,30.0,0,0,517
+Tanga,Mwanza - Musoma,Daladala,Weekend,Early Morning (5-7am),Rainy,Short Rains,15.3,3600.0,5,9301.0,48.2,30.4,0,0,186
+Tabora,Tanga - Korogwe,BRT,Weekend,Morning Peak (7-9am),Rainy,Long Rains,50.1,350.0,33,4597.0,21.7,32.2,1,0,594
+Iringa,Mbezi - Posta,Ferry,Weekday,Midday (10am-12pm),Cloudy,Short Rains,106.6,2220.0,34,3652.0,2.4,20.1,1,1,475
+Mwanza,Mbeya - Songea,Taxi,Weekday,Evening Peak (4-7pm),Rainy,Long Rains,7.6,1850.0,30,9713.0,29.8,24.5,1,1,516
+Dar es Salaam,Dodoma - Kondoa,Bus,Public Holiday,Midday (10am-12pm),Sunny,Short Rains,115.4,3560.0,8,4838.0,2.9,35.4,0,1,357
+Dodoma,Iringa - Morogoro,Taxi,Weekday,Midday (10am-12pm),Sunny,Long Rains,82.1,3900.0,39,10888.0,7.3,34.6,0,0,342
+Dar es Salaam,Dodoma - Kondoa,Tuk-tuk,Weekend,Evening Peak (4-7pm),Cloudy,Long Rains,76.5,1730.0,26,1301.0,20.9,33.9,0,1,399
+Mbeya,Iringa - Morogoro,Bus,Weekday,Evening Peak (4-7pm),Sunny,Dry Season,33.9,4110.0,37,1170.0,27.4,26.1,1,0,520
+Mbeya,Tabora - Shinyanga,BRT,Weekday,Afternoon (1-3pm),Cloudy,Long Rains,31.4,1680.0,34,11161.0,18.2,33.4,1,0,511
+Tanga,Arusha - Moshi,BRT,Weekday,Afternoon (1-3pm),Sunny,Long Rains,113.2,2400.0,7,7957.0,35.7,18.9,1,1,370
+Iringa,Iringa - Morogoro,Ferry,Public Holiday,Midday (10am-12pm),Cloudy,Short Rains,37.2,3720.0,28,4865.0,5.2,20.7,1,0,472
+Iringa,Dodoma - Kondoa,Bus,Public Holiday,Midday (10am-12pm),Rainy,Long Rains,93.5,3560.0,39,9183.0,10.4,25.5,1,1,479
+Arusha,Tabora - Shinyanga,Daladala,Weekday,Early Morning (5-7am),Rainy,Dry Season,48.4,4940.0,39,8232.0,42.3,26.7,1,1,390
+Arusha,Iringa - Morogoro,Bus,Weekday,Early Morning (5-7am),Cloudy,Short Rains,18.4,1360.0,28,6609.0,10.2,22.7,1,1,506
+Arusha,Mbezi - Posta,Tuk-tuk,Weekend,Afternoon (1-3pm),Cloudy,Short Rains,3.3,3410.0,14,1637.0,39.1,24.4,0,1,200
+Mwanza,Arusha - Moshi,Daladala,Weekday,Night (8-10pm),Cloudy,Dry Season,66.2,3170.0,38,9840.0,5.2,20.9,0,0,431
+Zanzibar,Iringa - Morogoro,BRT,Weekday,Night (8-10pm),Cloudy,Short Rains,117.1,4600.0,4,10459.0,25.6,26.8,1,1,387
+Morogoro,Tabora - Shinyanga,Bus,Weekday,Afternoon (1-3pm),Sunny,Short Rains,45.6,1030.0,18,2480.0,12.3,32.3,1,1,444
+Zanzibar,Mwanza - Musoma,Taxi,Weekday,Early Morning (5-7am),Sunny,Short Rains,44.1,3830.0,25,10281.0,8.4,29.9,1,1,400
+Dar es Salaam,Ubungo - Kariakoo,Ferry,Public Holiday,Early Morning (5-7am),Sunny,Short Rains,42.6,2970.0,7,10595.0,34.9,19.9,1,0,425
+Zanzibar,Tanga - Korogwe,Taxi,Weekday,Night (8-10pm),Heavy Rain,Dry Season,63.4,1590.0,38,6818.0,55.8,26.8,0,1,271
+Mwanza,Ubungo - Kariakoo,Ferry,Weekday,Morning Peak (7-9am),Sunny,Dry Season,54.0,2530.0,28,8046.0,5.2,30.6,1,0,636
+Dar es Salaam,Ubungo - Kariakoo,Tuk-tuk,Weekday,Morning Peak (7-9am),Cloudy,Short Rains,105.8,1870.0,5,4896.0,26.5,27.5,1,1,513
+Zanzibar,City Centre - Airport,Taxi,Weekend,Early Morning (5-7am),Cloudy,Short Rains,61.7,3020.0,3,3741.0,43.0,25.1,0,0,148
+Mwanza,Mbezi - Posta,Bus,Weekday,Morning Peak (7-9am),Cloudy,Dry Season,61.9,4480.0,31,8803.0,28.8,29.2,1,1,541
+Morogoro,Mwanza - Musoma,Bus,Weekday,Evening Peak (4-7pm),Cloudy,Dry Season,18.3,2980.0,20,10412.0,48.8,35.4,0,0,466
+Zanzibar,Mbeya - Songea,Taxi,Weekday,Afternoon (1-3pm),Sunny,Dry Season,118.0,3270.0,19,8022.0,12.4,19.7,0,0,315
+Mwanza,Iringa - Morogoro,Bus,Weekend,Afternoon (1-3pm),Cloudy,Short Rains,31.5,2740.0,11,6383.0,57.7,25.0,1,0,279
+Arusha,Tanga - Korogwe,Tuk-tuk,Weekday,Early Morning (5-7am),Rainy,Short Rains,10.7,540.0,3,2328.0,24.3,25.3,1,0,259
+Iringa,Arusha - Moshi,Daladala,Weekday,Midday (10am-12pm),Sunny,Long Rains,80.3,1390.0,23,1115.0,21.8,28.4,0,0,338
+Arusha,Mwanza - Musoma,Tuk-tuk,Weekday,Night (8-10pm),Sunny,Dry Season,72.3,2610.0,7,5625.0,52.7,20.7,0,0,173
+Iringa,Dodoma - Kondoa,Ferry,Weekday,Early Morning (5-7am),Cloudy,Short Rains,51.0,1760.0,23,1068.0,34.7,21.2,1,1,348
+Dodoma,Mbeya - Songea,Tuk-tuk,Weekday,Morning Peak (7-9am),Rainy,Dry Season,51.8,1150.0,7,7047.0,32.0,23.1,0,1,423
+Dodoma,City Centre - Airport,Ferry,Weekend,Night (8-10pm),Sunny,Short Rains,94.6,2670.0,34,4901.0,44.2,35.2,1,1,358
+Dodoma,City Centre - Airport,Bus,Weekday,Midday (10am-12pm),Rainy,Dry Season,25.1,1820.0,19,9208.0,35.6,31.2,1,0,415
+Morogoro,Mwanza - Musoma,Daladala,Weekend,Morning Peak (7-9am),Rainy,Short Rains,98.8,1510.0,9,4015.0,11.4,29.9,0,0,387
+Arusha,Tabora - Shinyanga,Bus,Weekday,Evening Peak (4-7pm),Sunny,Long Rains,78.6,2480.0,18,7319.0,41.1,32.7,1,0,496
+Iringa,Ubungo - Kariakoo,BRT,Weekend,Morning Peak (7-9am),Heavy Rain,Long Rains,51.4,930.0,25,6683.0,9.7,20.3,1,1,576
+Mwanza,Dodoma - Kondoa,Bus,Weekday,Evening Peak (4-7pm),Rainy,Dry Season,56.0,4660.0,14,554.0,48.7,33.5,1,1,348
+Dar es Salaam,City Centre - Airport,Ferry,Weekday,Night (8-10pm),Rainy,Short Rains,32.3,4380.0,25,1332.0,59.4,28.7,0,0,137
+Mwanza,Tanga - Korogwe,Bus,Public Holiday,Evening Peak (4-7pm),Cloudy,Short Rains,90.7,3630.0,19,3839.0,23.9,24.0,0,0,436
+Dar es Salaam,City Centre - Airport,Bus,Weekend,Night (8-10pm),Sunny,Dry Season,62.5,800.0,39,10646.0,27.8,32.7,1,1,505
+Mbeya,Arusha - Moshi,Daladala,Weekday,Night (8-10pm),Sunny,Short Rains,39.9,3950.0,15,2191.0,4.7,32.4,1,1,294
+Mwanza,Iringa - Morogoro,Bus,Weekday,Night (8-10pm),Sunny,Dry Season,72.3,4100.0,16,8675.0,2.8,33.2,0,1,388
+Zanzibar,City Centre - Airport,Daladala,Weekend,Night (8-10pm),Sunny,Short Rains,119.5,3910.0,27,11694.0,55.4,20.1,0,1,262
+Zanzibar,Arusha - Moshi,Taxi,Weekday,Night (8-10pm),Sunny,Dry Season,53.4,840.0,10,9592.0,9.5,35.4,1,0,346
+Tanga,Mwanza - Musoma,BRT,Weekend,Morning Peak (7-9am),Rainy,Short Rains,110.6,3330.0,4,3294.0,27.9,35.3,1,0,408
+Arusha,Mwanza - Musoma,Daladala,Weekend,Night (8-10pm),Rainy,Dry Season,42.7,4220.0,19,10946.0,49.3,24.4,0,0,214
+Dar es Salaam,Mbeya - Songea,Ferry,Weekday,Morning Peak (7-9am),Cloudy,Short Rains,8.5,3010.0,28,1571.0,53.6,19.2,1,0,450
+Dar es Salaam,City Centre - Airport,Taxi,Weekday,Night (8-10pm),Rainy,Long Rains,26.1,3340.0,21,5884.0,32.1,21.0,0,0,175
+Arusha,Tanga - Korogwe,Daladala,Weekday,Evening Peak (4-7pm),Rainy,Short Rains,51.4,2450.0,14,10707.0,34.8,35.9,1,1,505
+Morogoro,City Centre - Airport,Daladala,Weekday,Night (8-10pm),Sunny,Dry Season,27.9,2780.0,33,7875.0,40.8,28.1,1,0,368
+Tanga,Tanga - Korogwe,BRT,Weekday,Midday (10am-12pm),Sunny,Long Rains,2.0,460.0,10,5257.0,57.8,24.4,1,0,327
+Morogoro,Mbezi - Posta,Ferry,Public Holiday,Night (8-10pm),Cloudy,Short Rains,110.0,3300.0,19,3867.0,37.0,23.2,0,0,279
+Morogoro,Mbeya - Songea,Tuk-tuk,Weekday,Night (8-10pm),Cloudy,Long Rains,101.6,680.0,30,4814.0,34.4,22.6,1,0,325
+Morogoro,Mbezi - Posta,Tuk-tuk,Weekend,Evening Peak (4-7pm),Sunny,Short Rains,89.6,2340.0,22,6353.0,2.8,30.0,0,0,438
+Arusha,City Centre - Airport,Daladala,Weekday,Afternoon (1-3pm),Cloudy,Long Rains,21.8,1680.0,3,4169.0,6.7,25.5,0,1,337
+Morogoro,Mbeya - Songea,Bus,Weekday,Evening Peak (4-7pm),Sunny,Dry Season,16.2,2860.0,37,11643.0,35.5,35.4,1,1,655
+Zanzibar,Mbezi - Posta,Ferry,Weekday,Midday (10am-12pm),Cloudy,Short Rains,10.0,930.0,18,11230.0,56.3,30.3,1,0,446
+Dodoma,Ubungo - Kariakoo,Taxi,Weekday,Afternoon (1-3pm),Rainy,Short Rains,87.4,3550.0,11,10513.0,52.3,32.3,0,1,245
+Mbeya,City Centre - Airport,Bus,Weekday,Early Morning (5-7am),Cloudy,Dry Season,111.6,4040.0,2,5351.0,59.0,23.3,0,0,185
+Dar es Salaam,Mbezi - Posta,Bus,Weekday,Early Morning (5-7am),Heavy Rain,Long Rains,52.8,1070.0,12,8450.0,32.6,19.4,1,1,296
+Dar es Salaam,Ubungo - Kariakoo,Ferry,Weekend,Midday (10am-12pm),Rainy,Dry Season,16.1,790.0,6,10883.0,47.7,26.8,1,0,354
+Mbeya,Ubungo - Kariakoo,Daladala,Weekday,Evening Peak (4-7pm),Heavy Rain,Dry Season,62.5,980.0,29,10280.0,50.7,23.7,0,0,437
+Arusha,Mwanza - Musoma,Daladala,Weekday,Morning Peak (7-9am),Heavy Rain,Long Rains,43.2,4420.0,30,5265.0,39.6,21.6,1,1,381
+Mwanza,City Centre - Airport,Daladala,Weekday,Midday (10am-12pm),Rainy,Dry Season,46.2,2780.0,2,1792.0,21.6,35.1,1,0,259
+Arusha,Ubungo - Kariakoo,Daladala,Weekday,Afternoon (1-3pm),Cloudy,Short Rains,75.3,2500.0,9,1370.0,29.3,26.0,1,0,265
+Dar es Salaam,Mwanza - Musoma,Tuk-tuk,Weekday,Afternoon (1-3pm),Sunny,Short Rains,86.8,800.0,2,7136.0,51.8,21.1,1,0,297
+Dar es Salaam,Mbezi - Posta,Daladala,Weekday,Night (8-10pm),Sunny,Short Rains,15.1,3350.0,29,7890.0,19.3,21.6,0,0,296
+Mbeya,Arusha - Moshi,Tuk-tuk,Weekday,Early Morning (5-7am),Cloudy,Dry Season,6.2,4380.0,33,10273.0,55.6,23.1,1,0,334
+Morogoro,City Centre - Airport,Tuk-tuk,Weekday,Afternoon (1-3pm),Sunny,Short Rains,119.3,4190.0,10,3864.0,15.3,36.0,1,1,271
+Arusha,Mbeya - Songea,Daladala,Weekday,Midday (10am-12pm),Sunny,Short Rains,29.5,3240.0,34,2426.0,45.5,22.8,1,1,338
+Iringa,Tanga - Korogwe,BRT,Weekend,Afternoon (1-3pm),Heavy Rain,Short Rains,8.4,650.0,8,4859.0,38.6,23.9,1,1,323
+Mbeya,Tanga - Korogwe,Taxi,Weekday,Midday (10am-12pm),Rainy,Short Rains,24.4,830.0,37,4566.0,45.5,29.9,1,0,291
+Zanzibar,Mbezi - Posta,Bus,Weekday,Morning Peak (7-9am),Rainy,Short Rains,6.6,530.0,33,2023.0,27.4,23.3,0,0,496
+Dar es Salaam,Tabora - Shinyanga,Tuk-tuk,Weekday,Night (8-10pm),Sunny,Short Rains,48.2,1510.0,6,8231.0,56.1,21.9,0,0,231
+Mbeya,Tabora - Shinyanga,Ferry,Weekday,Early Morning (5-7am),Sunny,Dry Season,96.7,940.0,19,6350.0,38.7,20.9,0,0,377
+Arusha,Mbezi - Posta,Ferry,Weekend,Afternoon (1-3pm),Sunny,Short Rains,42.3,1520.0,32,8793.0,18.7,23.6,1,1,506
+Dar es Salaam,Ubungo - Kariakoo,Taxi,Weekday,Midday (10am-12pm),Sunny,Short Rains,54.4,2110.0,27,4556.0,39.0,19.9,1,0,318
+Mwanza,City Centre - Airport,Ferry,Weekday,Evening Peak (4-7pm),Sunny,Long Rains,81.7,4730.0,1,4246.0,18.6,18.3,1,1,402
+Mbeya,Tanga - Korogwe,BRT,Weekday,Early Morning (5-7am),Sunny,Dry Season,62.0,3170.0,33,5935.0,19.0,32.5,0,0,444
+Tanga,Tanga - Korogwe,Ferry,Weekday,Morning Peak (7-9am),Heavy Rain,Dry Season,103.7,4220.0,32,10590.0,25.2,20.5,1,0,548
+Dar es Salaam,Ubungo - Kariakoo,Bus,Weekday,Midday (10am-12pm),Cloudy,Dry Season,104.2,3640.0,5,963.0,51.4,32.0,1,0,182
+Arusha,Tanga - Korogwe,Bus,Weekday,Night (8-10pm),Sunny,Dry Season,3.2,830.0,17,9756.0,31.0,32.4,1,0,390
+Dodoma,Mbeya - Songea,Tuk-tuk,Weekend,Night (8-10pm),Sunny,Short Rains,93.8,3760.0,8,4743.0,41.4,27.7,0,0,73
+Iringa,City Centre - Airport,Daladala,Weekday,Morning Peak (7-9am),Cloudy,Short Rains,56.4,1590.0,34,10328.0,24.7,23.6,0,0,595
+Tabora,Iringa - Morogoro,BRT,Weekday,Morning Peak (7-9am),Sunny,Long Rains,118.7,3300.0,9,9725.0,17.3,20.6,1,0,538
+Morogoro,Tanga - Korogwe,Tuk-tuk,Weekday,Night (8-10pm),Heavy Rain,Long Rains,59.0,1900.0,23,4511.0,57.4,31.3,1,1,206
+Tabora,Mbezi - Posta,BRT,Weekday,Afternoon (1-3pm),Sunny,Dry Season,118.5,4990.0,35,8480.0,37.0,28.8,0,1,426
+Arusha,Mbeya - Songea,Daladala,Weekday,Afternoon (1-3pm),Sunny,Long Rains,91.0,1540.0,7,2336.0,56.2,29.8,1,0,277
+Zanzibar,Tanga - Korogwe,Ferry,Weekend,Midday (10am-12pm),Sunny,Long Rains,31.3,1610.0,15,10807.0,13.8,18.2,0,0,432
+Zanzibar,Mbeya - Songea,Ferry,Weekend,Evening Peak (4-7pm),Sunny,Dry Season,65.5,4670.0,20,5152.0,10.5,34.7,1,1,507
+Dodoma,Mwanza - Musoma,Daladala,Weekday,Midday (10am-12pm),Cloudy,Dry Season,119.1,420.0,25,5740.0,51.6,19.2,1,1,480
+Morogoro,Iringa - Morogoro,Tuk-tuk,Weekend,Evening Peak (4-7pm),Cloudy,Long Rains,103.2,3570.0,3,8616.0,41.5,24.6,0,1,326
+Tanga,Dodoma - Kondoa,Daladala,Public Holiday,Morning Peak (7-9am),Cloudy,Short Rains,13.5,3710.0,24,9940.0,12.8,25.2,1,0,531
+Dodoma,Mbezi - Posta,Taxi,Weekend,Early Morning (5-7am),Sunny,Long Rains,85.4,4230.0,34,3218.0,17.6,18.0,0,1,266
+Tabora,Mbezi - Posta,Bus,Weekday,Midday (10am-12pm),Cloudy,Long Rains,42.8,4880.0,22,8106.0,48.4,26.9,0,1,330
+Dodoma,City Centre - Airport,Tuk-tuk,Weekend,Midday (10am-12pm),Cloudy,Short Rains,2.8,4890.0,11,5008.0,28.3,31.6,1,0,219
+Tabora,Mbeya - Songea,BRT,Weekday,Evening Peak (4-7pm),Rainy,Short Rains,49.6,610.0,8,4740.0,40.9,32.8,0,1,448
+Dar es Salaam,Ubungo - Kariakoo,Taxi,Public Holiday,Morning Peak (7-9am),Sunny,Dry Season,29.7,4160.0,39,8435.0,20.5,33.8,0,0,562
+Zanzibar,Mbezi - Posta,Tuk-tuk,Weekday,Morning Peak (7-9am),Sunny,Dry Season,98.6,3340.0,35,4953.0,24.1,26.8,0,1,452
+Dar es Salaam,Mbeya - Songea,Daladala,Weekday,Evening Peak (4-7pm),Cloudy,Long Rains,41.8,3340.0,38,4480.0,59.5,29.4,0,1,354
+Iringa,Mbeya - Songea,Daladala,Weekend,Morning Peak (7-9am),Cloudy,Short Rains,99.6,900.0,8,10113.0,16.4,19.4,0,1,553
+Morogoro,Arusha - Moshi,Daladala,Weekday,Night (8-10pm),Sunny,Dry Season,2.1,3360.0,37,1665.0,31.4,26.8,0,1,283
+Tanga,Arusha - Moshi,Daladala,Public Holiday,Afternoon (1-3pm),Sunny,Long Rains,38.3,4920.0,27,8273.0,51.0,20.8,1,0,332
+Tabora,Dodoma - Kondoa,BRT,Public Holiday,Night (8-10pm),Sunny,Short Rains,30.5,4590.0,28,3360.0,15.9,24.7,0,1,363
+Tanga,Mwanza - Musoma,Taxi,Weekday,Early Morning (5-7am),Rainy,Long Rains,29.6,2360.0,34,678.0,26.1,23.9,1,1,323
+Tabora,Dodoma - Kondoa,Ferry,Weekday,Midday (10am-12pm),Sunny,Dry Season,10.0,490.0,32,2418.0,37.7,25.6,0,1,480
+Arusha,Tanga - Korogwe,Bus,Weekday,Early Morning (5-7am),Heavy Rain,Dry Season,24.1,2000.0,15,7477.0,29.9,28.3,0,1,293
+Dodoma,Ubungo - Kariakoo,BRT,Weekday,Midday (10am-12pm),Cloudy,Short Rains,67.6,4180.0,17,8655.0,28.7,34.3,0,1,435
+Iringa,Tanga - Korogwe,BRT,Weekday,Afternoon (1-3pm),Heavy Rain,Long Rains,36.4,3600.0,33,742.0,23.0,25.1,1,1,383
+Zanzibar,Tabora - Shinyanga,Ferry,Weekend,Morning Peak (7-9am),Rainy,Short Rains,51.3,2460.0,16,919.0,36.0,35.7,1,1,434
+Tabora,Tanga - Korogwe,Ferry,Weekday,Night (8-10pm),Sunny,Dry Season,46.5,560.0,29,10879.0,38.2,31.7,1,1,531
+Tanga,City Centre - Airport,Bus,Weekday,Evening Peak (4-7pm),Rainy,Dry Season,105.4,2310.0,9,1343.0,39.9,27.2,0,0,370
+Iringa,Tanga - Korogwe,Bus,Public Holiday,Night (8-10pm),Sunny,Long Rains,108.8,2500.0,33,10783.0,6.1,29.6,1,1,501
+Mwanza,Dodoma - Kondoa,Ferry,Weekday,Afternoon (1-3pm),Heavy Rain,Long Rains,60.2,4660.0,29,3124.0,38.6,19.8,0,0,223
+Mwanza,Mbezi - Posta,Daladala,Weekday,Early Morning (5-7am),Cloudy,Long Rains,41.0,3310.0,13,9010.0,57.3,33.2,0,0,262
+Dar es Salaam,Mbezi - Posta,BRT,Public Holiday,Evening Peak (4-7pm),Sunny,Short Rains,14.6,1760.0,21,4062.0,33.4,28.5,1,0,508
+Zanzibar,Arusha - Moshi,Tuk-tuk,Weekday,Morning Peak (7-9am),Cloudy,Long Rains,114.5,2770.0,21,10376.0,43.5,35.7,0,1,437
+Arusha,Ubungo - Kariakoo,Bus,Weekend,Afternoon (1-3pm),Heavy Rain,Long Rains,9.1,610.0,5,8555.0,34.3,29.5,1,1,297
+Tanga,Ubungo - Kariakoo,Bus,Public Holiday,Evening Peak (4-7pm),Sunny,Dry Season,37.1,4870.0,10,5121.0,51.6,33.0,0,1,442
+Dodoma,City Centre - Airport,Ferry,Weekend,Afternoon (1-3pm),Cloudy,Dry Season,37.2,1990.0,6,1377.0,55.9,32.4,1,0,269
+Dodoma,Dodoma - Kondoa,Taxi,Weekday,Afternoon (1-3pm),Cloudy,Long Rains,39.8,2550.0,13,8926.0,12.7,24.2,1,1,375
+Tanga,Arusha - Moshi,Tuk-tuk,Weekday,Morning Peak (7-9am),Rainy,Long Rains,21.4,1970.0,1,7594.0,27.3,22.7,1,1,403
+Morogoro,Tabora - Shinyanga,Tuk-tuk,Weekday,Midday (10am-12pm),Sunny,Dry Season,94.4,3510.0,20,533.0,24.8,25.7,0,0,231
+Arusha,Ubungo - Kariakoo,Bus,Weekend,Evening Peak (4-7pm),Sunny,Long Rains,16.5,3410.0,8,608.0,25.5,26.4,0,0,319
+Iringa,Mbezi - Posta,Daladala,Weekend,Morning Peak (7-9am),Sunny,Short Rains,76.9,3660.0,10,9801.0,9.3,22.3,1,0,463
+Tabora,Tanga - Korogwe,Taxi,Weekday,Afternoon (1-3pm),Cloudy,Short Rains,16.6,1560.0,9,3483.0,49.2,34.1,0,1,232
+Morogoro,Tanga - Korogwe,Tuk-tuk,Weekday,Morning Peak (7-9am),Sunny,Short Rains,10.3,1780.0,3,7816.0,4.1,27.8,1,1,490
+Tabora,Arusha - Moshi,Bus,Weekday,Midday (10am-12pm),Heavy Rain,Long Rains,109.3,890.0,11,5723.0,32.6,35.6,1,0,303
+Tabora,Dodoma - Kondoa,Tuk-tuk,Weekday,Night (8-10pm),Sunny,Dry Season,24.4,3380.0,12,10429.0,40.4,32.6,0,1,282
+Morogoro,Dodoma - Kondoa,Taxi,Weekend,Evening Peak (4-7pm),Cloudy,Long Rains,98.9,490.0,10,11045.0,14.0,28.0,1,0,468
+Dar es Salaam,Mwanza - Musoma,Taxi,Weekday,Midday (10am-12pm),Sunny,Long Rains,66.3,3110.0,25,11963.0,54.5,35.0,1,0,381
+Mwanza,Iringa - Morogoro,BRT,Weekend,Early Morning (5-7am),Sunny,Dry Season,11.2,4390.0,25,2267.0,50.6,27.1,0,0,290
+Tabora,Ubungo - Kariakoo,Ferry,Weekend,Evening Peak (4-7pm),Sunny,Dry Season,114.7,4490.0,11,10424.0,29.3,34.0,0,0,410
+Morogoro,Dodoma - Kondoa,Ferry,Weekday,Midday (10am-12pm),Sunny,Dry Season,31.1,2410.0,36,3559.0,25.8,24.4,1,0,470
+Morogoro,Mbezi - Posta,Bus,Weekday,Afternoon (1-3pm),Cloudy,Short Rains,103.4,2460.0,39,7294.0,15.7,24.8,0,0,410
+Mbeya,Arusha - Moshi,Taxi,Weekday,Evening Peak (4-7pm),Heavy Rain,Long Rains,21.9,660.0,26,6316.0,44.3,25.5,1,1,425
+Dar es Salaam,Tabora - Shinyanga,BRT,Weekday,Evening Peak (4-7pm),Cloudy,Dry Season,102.8,3450.0,14,707.0,9.6,27.8,0,0,427
+Zanzibar,Mwanza - Musoma,BRT,Weekend,Morning Peak (7-9am),Heavy Rain,Long Rains,3.6,4160.0,39,11227.0,41.5,28.0,1,1,489
+Mbeya,Mbeya - Songea,Tuk-tuk,Weekend,Afternoon (1-3pm),Rainy,Short Rains,62.4,1450.0,1,1401.0,50.9,26.9,0,1,141
+Mbeya,City Centre - Airport,Tuk-tuk,Weekend,Early Morning (5-7am),Cloudy,Short Rains,92.8,2280.0,4,8415.0,15.3,23.5,1,0,252
+Tanga,Tabora - Shinyanga,BRT,Weekday,Night (8-10pm),Rainy,Dry Season,112.3,4240.0,30,9528.0,52.3,34.7,1,1,403
+Mwanza,Mbeya - Songea,Tuk-tuk,Weekday,Midday (10am-12pm),Cloudy,Dry Season,109.3,4420.0,12,9646.0,3.9,28.6,0,0,323
+Morogoro,Tanga - Korogwe,Taxi,Weekend,Morning Peak (7-9am),Sunny,Long Rains,98.7,1440.0,35,2058.0,54.9,25.3,0,1,379
+Mwanza,City Centre - Airport,Daladala,Weekday,Midday (10am-12pm),Cloudy,Dry Season,106.8,2890.0,13,5647.0,8.9,29.7,1,1,460
+Arusha,Ubungo - Kariakoo,Taxi,Weekday,Early Morning (5-7am),Sunny,Long Rains,25.5,1200.0,31,10038.0,39.5,31.8,1,0,349
+Tanga,Mbezi - Posta,BRT,Weekday,Early Morning (5-7am),Cloudy,Dry Season,35.5,780.0,38,3981.0,16.5,35.3,0,1,488
+Zanzibar,City Centre - Airport,BRT,Weekday,Evening Peak (4-7pm),Cloudy,Long Rains,36.1,4580.0,23,5879.0,50.5,27.0,1,1,452
+Mwanza,Iringa - Morogoro,Taxi,Weekday,Early Morning (5-7am),Sunny,Long Rains,46.5,4160.0,4,3637.0,31.7,20.0,0,1,229
+Dodoma,Mbeya - Songea,Tuk-tuk,Weekday,Midday (10am-12pm),Sunny,Long Rains,48.4,3870.0,16,5831.0,9.8,25.9,0,1,328
+Tabora,Ubungo - Kariakoo,Tuk-tuk,Public Holiday,Afternoon (1-3pm),Heavy Rain,Long Rains,66.3,530.0,7,10710.0,35.1,26.6,1,0,279
+Arusha,Iringa - Morogoro,Ferry,Weekday,Afternoon (1-3pm),Cloudy,Short Rains,20.9,4270.0,22,5734.0,25.7,34.1,1,1,379
+Dar es Salaam,Tanga - Korogwe,BRT,Weekday,Evening Peak (4-7pm),Sunny,Long Rains,83.6,2360.0,29,6893.0,40.4,25.1,0,0,478
+Zanzibar,Iringa - Morogoro,Bus,Weekday,Night (8-10pm),Cloudy,Dry Season,21.8,1910.0,11,5146.0,53.2,35.2,1,0,283
+Arusha,Mwanza - Musoma,Ferry,Weekend,Midday (10am-12pm),Cloudy,Short Rains,38.6,2870.0,33,5791.0,25.7,26.7,0,0,355
+Tabora,Mwanza - Musoma,Tuk-tuk,Weekday,Midday (10am-12pm),Cloudy,Short Rains,61.4,730.0,29,675.0,18.8,35.5,1,0,336
+Tanga,Arusha - Moshi,Taxi,Weekday,Early Morning (5-7am),Heavy Rain,Long Rains,96.0,3860.0,39,3763.0,2.8,18.1,1,1,338
+Tabora,Tabora - Shinyanga,Tuk-tuk,Weekday,Midday (10am-12pm),Cloudy,Short Rains,89.3,3040.0,12,5521.0,35.3,34.2,1,1,356
+Mbeya,Tabora - Shinyanga,Taxi,Weekend,Morning Peak (7-9am),Sunny,Long Rains,78.2,1180.0,7,7789.0,25.3,34.8,1,1,419
+Tabora,Ubungo - Kariakoo,Ferry,Weekday,Night (8-10pm),Rainy,Dry Season,20.4,1180.0,39,5676.0,23.7,35.3,0,0,369
+Mbeya,Tanga - Korogwe,BRT,Weekend,Early Morning (5-7am),Rainy,Long Rains,66.6,1170.0,26,4385.0,12.6,18.2,1,1,435
+Tanga,Dodoma - Kondoa,Tuk-tuk,Weekend,Morning Peak (7-9am),Sunny,Short Rains,12.3,570.0,9,4963.0,26.9,21.1,1,1,415
+Iringa,Mwanza - Musoma,Taxi,Weekday,Evening Peak (4-7pm),Sunny,Dry Season,46.5,3060.0,34,3286.0,59.1,29.8,0,0,371
+Mbeya,Ubungo - Kariakoo,BRT,Weekend,Afternoon (1-3pm),Sunny,Long Rains,50.8,4250.0,13,11132.0,19.3,18.5,1,0,410
+Dar es Salaam,Dodoma - Kondoa,Bus,Weekday,Evening Peak (4-7pm),Cloudy,Dry Season,6.7,380.0,36,6500.0,36.8,19.1,0,1,598
+Tabora,Tabora - Shinyanga,Taxi,Weekend,Afternoon (1-3pm),Cloudy,Dry Season,34.3,530.0,25,654.0,47.0,22.0,1,1,333
+Tabora,Arusha - Moshi,Ferry,Weekday,Evening Peak (4-7pm),Cloudy,Short Rains,114.8,2990.0,24,724.0,45.5,27.2,0,1,408
+Dar es Salaam,Iringa - Morogoro,Bus,Weekend,Midday (10am-12pm),Heavy Rain,Dry Season,114.5,4150.0,17,11689.0,21.1,27.8,0,1,339
+Dodoma,Mwanza - Musoma,Bus,Weekday,Morning Peak (7-9am),Rainy,Short Rains,43.6,1840.0,2,3047.0,37.4,18.6,0,0,324
+Morogoro,Ubungo - Kariakoo,Daladala,Weekday,Afternoon (1-3pm),Sunny,Dry Season,7.1,1940.0,13,9764.0,52.5,21.1,1,0,381
+Iringa,City Centre - Airport,Tuk-tuk,Weekday,Early Morning (5-7am),Sunny,Long Rains,23.1,3100.0,31,1170.0,2.9,27.0,1,1,378
+Zanzibar,Dodoma - Kondoa,Taxi,Weekday,Morning Peak (7-9am),Sunny,Dry Season,48.3,1590.0,29,11093.0,27.3,28.7,0,0,537
+Mbeya,Iringa - Morogoro,Bus,Weekday,Early Morning (5-7am),Sunny,Long Rains,113.8,430.0,28,10556.0,15.0,20.7,0,1,461
+Dar es Salaam,Mwanza - Musoma,Daladala,Weekday,Morning Peak (7-9am),Cloudy,Long Rains,18.7,3760.0,27,7068.0,24.5,25.2,0,1,505
+Tanga,Tabora - Shinyanga,Ferry,Weekday,Morning Peak (7-9am),Rainy,Dry Season,92.1,3240.0,15,603.0,26.1,34.3,1,1,526
+Mbeya,Tanga - Korogwe,BRT,Weekday,Evening Peak (4-7pm),Sunny,Long Rains,14.8,3030.0,31,3465.0,45.3,36.0,1,1,525
+Morogoro,Dodoma - Kondoa,Taxi,Weekend,Afternoon (1-3pm),Cloudy,Dry Season,117.8,3790.0,15,5178.0,7.4,35.8,0,0,274
+Tanga,Tabora - Shinyanga,Bus,Weekday,Afternoon (1-3pm),Rainy,Dry Season,47.0,3470.0,33,5791.0,31.7,33.9,0,1,387
+Arusha,Mwanza - Musoma,Tuk-tuk,Weekday,Morning Peak (7-9am),Sunny,Long Rains,93.5,1270.0,20,3923.0,34.7,25.1,1,1,422
+Tabora,Dodoma - Kondoa,Daladala,Weekday,Midday (10am-12pm),Sunny,Long Rains,42.4,1960.0,12,879.0,30.7,30.4,0,1,269
+Arusha,Iringa - Morogoro,Bus,Weekday,Midday (10am-12pm),Sunny,Short Rains,76.1,890.0,37,7286.0,44.4,25.5,0,1,437
+Mbeya,Mwanza - Musoma,Tuk-tuk,Public Holiday,Early Morning (5-7am),Sunny,Long Rains,24.7,910.0,9,6528.0,24.3,29.7,0,0,319
+Morogoro,Mbeya - Songea,Bus,Weekday,Early Morning (5-7am),Heavy Rain,Short Rains,19.2,3480.0,23,3755.0,56.8,23.6,1,1,280
+Iringa,Ubungo - Kariakoo,Taxi,Weekday,Evening Peak (4-7pm),Sunny,Long Rains,112.7,4340.0,8,937.0,29.9,28.9,1,1,319
+Mbeya,Iringa - Morogoro,Taxi,Public Holiday,Morning Peak (7-9am),Sunny,Dry Season,110.3,4820.0,32,11938.0,35.1,27.4,1,0,522
+Dar es Salaam,Dodoma - Kondoa,Taxi,Weekend,Early Morning (5-7am),Cloudy,Long Rains,106.7,3250.0,14,6043.0,49.9,18.4,0,1,160
+Mwanza,Tanga - Korogwe,Ferry,Weekday,Early Morning (5-7am),Heavy Rain,Dry Season,75.8,1170.0,27,9194.0,18.0,32.2,1,1,472
+Mbeya,Tabora - Shinyanga,Ferry,Weekend,Night (8-10pm),Sunny,Dry Season,97.4,800.0,25,5702.0,6.4,18.2,0,1,403
+Tabora,City Centre - Airport,Daladala,Public Holiday,Morning Peak (7-9am),Sunny,Dry Season,10.1,4120.0,13,996.0,43.1,23.3,1,0,385
+Tabora,Tabora - Shinyanga,Taxi,Weekday,Evening Peak (4-7pm),Sunny,Short Rains,41.5,3020.0,21,4060.0,30.0,18.1,1,1,451
+Mbeya,Dodoma - Kondoa,Tuk-tuk,Weekday,Early Morning (5-7am),Sunny,Long Rains,39.0,3210.0,31,4181.0,54.0,24.8,1,1,310
+Tanga,Tabora - Shinyanga,Bus,Weekday,Evening Peak (4-7pm),Sunny,Dry Season,77.0,3970.0,37,10141.0,59.0,19.1,0,1,502
+Mwanza,Ubungo - Kariakoo,BRT,Weekday,Afternoon (1-3pm),Cloudy,Dry Season,44.0,3610.0,5,8024.0,25.1,34.4,0,0,316
+Dar es Salaam,Mwanza - Musoma,Tuk-tuk,Weekday,Evening Peak (4-7pm),Sunny,Short Rains,19.5,4220.0,13,3667.0,26.1,25.5,1,0,331
+Mbeya,City Centre - Airport,Ferry,Weekday,Midday (10am-12pm),Sunny,Long Rains,72.4,560.0,28,11629.0,25.7,26.3,1,1,575
+Tanga,Mbezi - Posta,Ferry,Weekday,Midday (10am-12pm),Rainy,Long Rains,98.1,3810.0,25,4198.0,20.8,24.3,0,1,351
+Tabora,Dodoma - Kondoa,Tuk-tuk,Weekday,Evening Peak (4-7pm),Sunny,Short Rains,47.1,4300.0,35,11980.0,47.3,29.3,1,0,456
+Tabora,Arusha - Moshi,Ferry,Weekday,Midday (10am-12pm),Sunny,Short Rains,17.6,1640.0,39,11956.0,46.0,32.1,1,0,516
+Morogoro,Mbezi - Posta,Taxi,Weekday,Afternoon (1-3pm),Sunny,Long Rains,25.2,3310.0,7,2699.0,29.8,29.7,1,0,165
+Mbeya,Tabora - Shinyanga,Daladala,Weekday,Morning Peak (7-9am),Heavy Rain,Short Rains,30.0,1780.0,38,4097.0,4.6,31.5,1,1,489
+Mwanza,Dodoma - Kondoa,Bus,Weekday,Midday (10am-12pm),Sunny,Long Rains,37.4,4800.0,32,6090.0,20.0,34.3,0,0,390
+Dodoma,Mbeya - Songea,Daladala,Weekday,Midday (10am-12pm),Rainy,Long Rains,77.8,460.0,3,8137.0,19.0,33.5,0,0,325
+Mwanza,Arusha - Moshi,Bus,Weekend,Evening Peak (4-7pm),Rainy,Dry Season,72.9,3030.0,39,6573.0,49.0,30.1,0,0,439
+Tabora,City Centre - Airport,Bus,Weekday,Afternoon (1-3pm),Sunny,Dry Season,84.1,1080.0,37,11649.0,7.1,21.9,1,1,585
+Tabora,Tanga - Korogwe,Daladala,Weekday,Morning Peak (7-9am),Heavy Rain,Long Rains,44.8,3650.0,22,8826.0,48.7,29.5,0,0,314
+Arusha,Mbeya - Songea,Tuk-tuk,Weekend,Evening Peak (4-7pm),Sunny,Long Rains,99.2,1130.0,8,2939.0,40.8,27.1,1,0,364
+Tabora,Mbezi - Posta,Bus,Weekday,Evening Peak (4-7pm),Sunny,Long Rains,26.1,1410.0,17,1709.0,44.5,30.9,0,1,385
+Dar es Salaam,Mwanza - Musoma,Daladala,Weekday,Night (8-10pm),Rainy,Long Rains,57.3,2620.0,27,8417.0,27.1,33.0,0,0,300
+Zanzibar,Ubungo - Kariakoo,Bus,Weekend,Afternoon (1-3pm),Cloudy,Long Rains,96.5,4600.0,33,2322.0,41.4,31.4,1,0,291
+Mbeya,Tanga - Korogwe,BRT,Weekend,Morning Peak (7-9am),Cloudy,Long Rains,23.3,1300.0,17,9558.0,37.3,33.2,0,1,543
+Mwanza,Mbeya - Songea,Tuk-tuk,Weekday,Afternoon (1-3pm),Sunny,Short Rains,15.0,980.0,12,4077.0,46.6,19.1,0,0,205
+Zanzibar,Mwanza - Musoma,Taxi,Weekday,Morning Peak (7-9am),Sunny,Long Rains,106.3,3870.0,27,4259.0,27.9,18.6,1,1,412
+Tanga,Mwanza - Musoma,Bus,Public Holiday,Afternoon (1-3pm),Rainy,Short Rains,42.5,2650.0,8,624.0,29.4,22.7,0,0,253
+Dodoma,Dodoma - Kondoa,BRT,Weekday,Evening Peak (4-7pm),Sunny,Short Rains,82.7,4590.0,23,8562.0,39.3,34.2,0,1,496
+Dar es Salaam,Mbeya - Songea,Taxi,Weekday,Evening Peak (4-7pm),Sunny,Long Rains,5.0,990.0,29,1803.0,8.3,32.8,0,0,424
+Mwanza,City Centre - Airport,Taxi,Weekend,Early Morning (5-7am),Sunny,Long Rains,83.4,3340.0,20,9388.0,27.3,30.3,1,1,333
+Zanzibar,Tabora - Shinyanga,Bus,Weekday,Midday (10am-12pm),Sunny,Short Rains,39.3,1390.0,16,6156.0,58.4,30.6,1,0,306
+Dodoma,Arusha - Moshi,Daladala,Weekday,Night (8-10pm),Rainy,Short Rains,8.6,1040.0,17,9519.0,4.2,31.1,1,0,404
+Arusha,Arusha - Moshi,Bus,Weekday,Afternoon (1-3pm),Sunny,Long Rains,74.0,3510.0,16,7215.0,20.3,35.0,0,1,341
+Dar es Salaam,Mbezi - Posta,BRT,Weekend,Night (8-10pm),Heavy Rain,Long Rains,30.4,3090.0,19,1448.0,20.2,33.0,0,1,259
+Dar es Salaam,Mbezi - Posta,Taxi,Weekday,Early Morning (5-7am),Sunny,Short Rains,47.6,3850.0,8,9305.0,38.7,29.2,1,0,212
+Arusha,Arusha - Moshi,Bus,Weekday,Midday (10am-12pm),Cloudy,Short Rains,11.5,1750.0,38,1303.0,8.1,30.0,1,1,484
+Mbeya,City Centre - Airport,Daladala,Weekday,Afternoon (1-3pm),Sunny,Short Rains,19.4,2410.0,38,6005.0,38.5,21.8,0,0,372
+Arusha,Ubungo - Kariakoo,Bus,Weekday,Morning Peak (7-9am),Sunny,Dry Season,37.2,2210.0,29,2482.0,7.5,29.8,0,1,509
+Dar es Salaam,Iringa - Morogoro,Tuk-tuk,Weekday,Midday (10am-12pm),Sunny,Short Rains,12.6,4930.0,36,9152.0,7.5,25.6,1,0,374
+Dar es Salaam,Tabora - Shinyanga,Daladala,Weekend,Evening Peak (4-7pm),Sunny,Dry Season,109.5,1670.0,26,10983.0,44.2,20.8,1,1,532
+Zanzibar,Ubungo - Kariakoo,BRT,Weekday,Early Morning (5-7am),Cloudy,Long Rains,2.7,1690.0,31,6872.0,20.8,32.5,0,0,448
+Tabora,Dodoma - Kondoa,Taxi,Weekday,Midday (10am-12pm),Heavy Rain,Long Rains,59.1,1970.0,12,6562.0,58.7,27.2,0,0,172
+Dodoma,Iringa - Morogoro,Bus,Weekend,Midday (10am-12pm),Cloudy,Short Rains,16.5,2950.0,17,9286.0,4.2,35.6,0,0,419
+Arusha,Iringa - Morogoro,Daladala,Weekday,Evening Peak (4-7pm),Sunny,Long Rains,38.3,1490.0,15,558.0,27.8,23.1,0,0,374
+Dodoma,Mbeya - Songea,Tuk-tuk,Public Holiday,Afternoon (1-3pm),Sunny,Long Rains,111.3,4600.0,9,11054.0,8.6,26.7,1,1,391
+Arusha,City Centre - Airport,Daladala,Weekday,Morning Peak (7-9am),Sunny,Long Rains,21.1,1550.0,39,2771.0,22.4,26.1,1,1,589
+Tanga,City Centre - Airport,Ferry,Weekday,Evening Peak (4-7pm),Cloudy,Long Rains,116.0,4510.0,12,11817.0,59.9,20.2,1,1,488
+Dar es Salaam,Iringa - Morogoro,Tuk-tuk,Weekday,Morning Peak (7-9am),Rainy,Dry Season,26.3,790.0,32,8967.0,53.6,25.7,0,0,450
+Tabora,Mbeya - Songea,BRT,Public Holiday,Afternoon (1-3pm),Heavy Rain,Dry Season,89.5,3390.0,25,9404.0,4.8,23.2,0,0,420
+Zanzibar,Tabora - Shinyanga,Taxi,Weekday,Midday (10am-12pm),Sunny,Short Rains,66.5,4560.0,39,8046.0,34.7,20.9,0,1,342
+Tabora,Iringa - Morogoro,BRT,Weekday,Morning Peak (7-9am),Cloudy,Short Rains,106.4,1090.0,18,5924.0,39.6,23.1,0,1,562
+Tabora,Tanga - Korogwe,Bus,Weekday,Early Morning (5-7am),Sunny,Short Rains,67.4,4850.0,15,7074.0,14.2,22.2,1,0,318
+Tabora,Mbezi - Posta,Daladala,Weekday,Early Morning (5-7am),Cloudy,Long Rains,65.1,2430.0,32,1034.0,10.4,31.2,0,1,358
+Dodoma,Mbezi - Posta,Ferry,Weekday,Evening Peak (4-7pm),Cloudy,Long Rains,25.1,4740.0,6,7676.0,54.5,18.6,0,1,386
+Arusha,Ubungo - Kariakoo,Tuk-tuk,Public Holiday,Afternoon (1-3pm),Cloudy,Dry Season,21.6,3480.0,35,7700.0,58.2,29.1,0,1,324
+Iringa,Dodoma - Kondoa,Tuk-tuk,Weekday,Evening Peak (4-7pm),Cloudy,Dry Season,110.1,1720.0,34,10749.0,59.5,31.7,1,0,521
+Tanga,Mbezi - Posta,Daladala,Weekend,Evening Peak (4-7pm),Sunny,Short Rains,40.7,1190.0,38,6315.0,47.8,26.7,1,0,505
+Mwanza,Mwanza - Musoma,Ferry,Weekday,Night (8-10pm),Rainy,Dry Season,45.9,1730.0,5,1387.0,40.5,34.8,1,0,240
+Tabora,Ubungo - Kariakoo,Daladala,Weekday,Evening Peak (4-7pm),Sunny,Dry Season,91.7,740.0,18,4021.0,22.1,30.7,0,1,499
+Mbeya,Mbezi - Posta,Bus,Weekday,Night (8-10pm),Cloudy,Dry Season,42.0,980.0,16,8040.0,11.9,31.5,1,0,408
+Dodoma,Dodoma - Kondoa,BRT,Weekday,Early Morning (5-7am),Sunny,Dry Season,114.3,790.0,8,3251.0,6.6,21.5,0,0,397
+Zanzibar,City Centre - Airport,Tuk-tuk,Weekend,Early Morning (5-7am),Cloudy,Dry Season,89.1,2290.0,25,3726.0,42.2,32.0,0,1,269
+Mwanza,City Centre - Airport,Bus,Public Holiday,Evening Peak (4-7pm),Heavy Rain,Short Rains,72.5,4040.0,32,9935.0,47.5,33.0,1,0,435
+Iringa,Tabora - Shinyanga,BRT,Weekday,Early Morning (5-7am),Rainy,Short Rains,105.9,960.0,26,7220.0,49.9,24.5,0,0,363
+Mbeya,Iringa - Morogoro,Bus,Weekday,Afternoon (1-3pm),Rainy,Dry Season,7.9,910.0,22,6348.0,55.0,21.8,1,1,388
+Iringa,Tanga - Korogwe,Ferry,Weekday,Night (8-10pm),Cloudy,Short Rains,32.3,3320.0,31,4162.0,53.0,24.9,0,1,325
+Mwanza,City Centre - Airport,Tuk-tuk,Public Holiday,Night (8-10pm),Cloudy,Long Rains,56.9,1230.0,10,8906.0,60.0,31.3,1,1,326
+Tabora,Mbeya - Songea,Daladala,Weekday,Evening Peak (4-7pm),Cloudy,Dry Season,28.8,760.0,12,3809.0,16.2,25.5,1,0,482
+Mbeya,Mbezi - Posta,Daladala,Weekday,Early Morning (5-7am),Rainy,Long Rains,89.8,1080.0,28,8976.0,46.3,31.3,1,1,373
+Iringa,Mbeya - Songea,BRT,Weekend,Morning Peak (7-9am),Sunny,Short Rains,110.5,4640.0,6,1306.0,36.0,20.0,1,1,372
+Zanzibar,Dodoma - Kondoa,Taxi,Weekday,Night (8-10pm),Heavy Rain,Short Rains,52.0,4160.0,20,10442.0,17.2,32.5,1,0,225
+Arusha,City Centre - Airport,Ferry,Weekday,Evening Peak (4-7pm),Heavy Rain,Long Rains,42.4,1960.0,5,6245.0,59.0,22.6,0,1,342
+Dar es Salaam,Tanga - Korogwe,BRT,Weekday,Evening Peak (4-7pm),Cloudy,Short Rains,115.5,3380.0,23,5543.0,54.1,22.5,1,0,442
+Arusha,Dodoma - Kondoa,Taxi,Weekend,Afternoon (1-3pm),Sunny,Dry Season,54.5,2830.0,9,7527.0,9.5,28.6,1,0,344
+Mwanza,Mwanza - Musoma,Bus,Weekday,Midday (10am-12pm),Sunny,Long Rains,59.7,3480.0,29,7678.0,3.5,19.3,0,0,405
+Dodoma,Mwanza - Musoma,Ferry,Weekday,Midday (10am-12pm),Rainy,Dry Season,43.5,3510.0,16,2018.0,41.9,18.5,1,0,302
+Dar es Salaam,Mbeya - Songea,Bus,Weekday,Night (8-10pm),Sunny,Long Rains,109.3,3260.0,22,9197.0,37.0,22.7,1,0,337
+Tanga,Iringa - Morogoro,Tuk-tuk,Weekday,Afternoon (1-3pm),Rainy,Short Rains,69.1,1550.0,8,3673.0,56.3,27.7,1,1,243
+Zanzibar,Ubungo - Kariakoo,Ferry,Weekday,Afternoon (1-3pm),Sunny,Long Rains,91.9,480.0,20,10907.0,15.6,34.3,0,0,472
+Tanga,Iringa - Morogoro,Taxi,Weekday,Afternoon (1-3pm),Sunny,Long Rains,97.8,2440.0,14,9905.0,6.9,33.2,1,1,412
+Mbeya,Tabora - Shinyanga,Tuk-tuk,Weekday,Night (8-10pm),Heavy Rain,Dry Season,42.3,4490.0,39,4482.0,17.0,26.8,0,1,239
+Dar es Salaam,Iringa - Morogoro,Daladala,Weekday,Midday (10am-12pm),Cloudy,Short Rains,53.2,2980.0,37,9789.0,3.1,18.7,0,0,441
+Tanga,Tabora - Shinyanga,Taxi,Weekday,Afternoon (1-3pm),Cloudy,Dry Season,102.1,4210.0,34,4598.0,4.1,27.6,1,0,372
+Tanga,Tabora - Shinyanga,BRT,Weekday,Early Morning (5-7am),Cloudy,Short Rains,44.9,4960.0,11,1661.0,55.1,30.7,0,1,233
+Iringa,Tanga - Korogwe,Daladala,Weekend,Evening Peak (4-7pm),Sunny,Dry Season,95.7,1070.0,33,11562.0,22.4,24.1,1,1,651
+Arusha,City Centre - Airport,Daladala,Weekday,Evening Peak (4-7pm),Rainy,Long Rains,113.0,3550.0,31,8005.0,25.8,20.0,0,0,454
+Iringa,Tanga - Korogwe,BRT,Weekend,Morning Peak (7-9am),Sunny,Dry Season,75.5,3470.0,34,5745.0,3.1,23.0,0,0,574
+Dar es Salaam,Tabora - Shinyanga,Ferry,Weekend,Morning Peak (7-9am),Heavy Rain,Short Rains,89.5,4910.0,7,5074.0,17.7,31.9,0,1,334
+Dar es Salaam,Dodoma - Kondoa,Daladala,Weekday,Night (8-10pm),Rainy,Short Rains,97.0,4930.0,23,4234.0,48.7,24.3,1,0,212
+Mwanza,Mwanza - Musoma,Taxi,Weekday,Night (8-10pm),Sunny,Long Rains,101.7,3530.0,7,11787.0,37.7,32.6,1,1,291
+Iringa,Tabora - Shinyanga,Tuk-tuk,Weekday,Evening Peak (4-7pm),Cloudy,Short Rains,48.6,1440.0,25,2050.0,45.7,23.8,0,1,363
+Morogoro,Tanga - Korogwe,Daladala,Weekday,Early Morning (5-7am),Cloudy,Dry Season,8.0,4050.0,3,4120.0,27.9,20.9,0,0,237
+Arusha,Dodoma - Kondoa,Taxi,Weekday,Midday (10am-12pm),Sunny,Long Rains,49.4,800.0,38,6083.0,20.0,25.8,0,0,365
+Dar es Salaam,Tanga - Korogwe,Bus,Weekday,Midday (10am-12pm),Heavy Rain,Short Rains,81.5,3970.0,20,5997.0,30.0,26.1,1,0,314
+Mwanza,Iringa - Morogoro,Taxi,Weekday,Night (8-10pm),Sunny,Short Rains,55.1,4580.0,34,5921.0,20.7,18.3,0,1,291
+Iringa,Mbezi - Posta,Tuk-tuk,Weekend,Early Morning (5-7am),Sunny,Dry Season,90.4,2100.0,30,2522.0,50.7,20.1,1,0,283
+Arusha,Mbeya - Songea,Taxi,Weekday,Night (8-10pm),Cloudy,Dry Season,44.1,3260.0,17,2167.0,19.3,21.3,1,0,249
+Iringa,Ubungo - Kariakoo,BRT,Weekend,Midday (10am-12pm),Cloudy,Long Rains,76.9,2320.0,10,3430.0,40.3,20.0,1,1,304
+Tanga,Tanga - Korogwe,Tuk-tuk,Weekday,Night (8-10pm),Cloudy,Short Rains,24.0,2360.0,35,11017.0,9.9,24.1,1,0,373
+Mwanza,Ubungo - Kariakoo,Ferry,Weekend,Afternoon (1-3pm),Rainy,Dry Season,90.4,1760.0,20,1800.0,41.8,35.4,1,0,317
+Arusha,Arusha - Moshi,Bus,Weekday,Night (8-10pm),Cloudy,Long Rains,66.4,3880.0,18,9210.0,55.0,27.2,0,1,314
+Tabora,Tanga - Korogwe,BRT,Weekday,Evening Peak (4-7pm),Cloudy,Short Rains,26.1,4700.0,27,9212.0,37.3,29.3,1,0,537
+Mbeya,Mbezi - Posta,Ferry,Weekday,Night (8-10pm),Sunny,Short Rains,36.4,4720.0,36,9812.0,34.5,24.4,1,1,465
+Mbeya,Ubungo - Kariakoo,Taxi,Weekday,Evening Peak (4-7pm),Sunny,Long Rains,90.3,1120.0,23,10696.0,57.7,23.8,0,1,449
+Arusha,Tabora - Shinyanga,Tuk-tuk,Weekday,Early Morning (5-7am),Sunny,Long Rains,58.9,4410.0,32,3525.0,38.4,18.4,1,0,255
+Iringa,Tanga - Korogwe,Bus,Public Holiday,Midday (10am-12pm),Sunny,Dry Season,27.5,3770.0,10,3082.0,17.1,27.0,0,0,365
+Mwanza,City Centre - Airport,BRT,Weekday,Morning Peak (7-9am),Cloudy,Short Rains,116.1,1490.0,11,5853.0,19.0,26.7,0,0,509
+Mbeya,Mbeya - Songea,Ferry,Weekday,Morning Peak (7-9am),Sunny,Short Rains,86.4,620.0,38,3549.0,42.9,20.8,0,1,538
+Mwanza,Mbezi - Posta,Ferry,Weekend,Midday (10am-12pm),Sunny,Short Rains,114.9,1560.0,6,8945.0,44.7,31.8,1,0,377
+Mbeya,Ubungo - Kariakoo,Bus,Weekend,Morning Peak (7-9am),Sunny,Long Rains,52.4,4590.0,34,7813.0,19.6,26.9,1,1,567
+Tanga,Mbezi - Posta,Taxi,Weekday,Night (8-10pm),Heavy Rain,Dry Season,58.1,3280.0,36,10562.0,22.0,24.1,1,1,334
+Iringa,Dodoma - Kondoa,Bus,Weekday,Early Morning (5-7am),Heavy Rain,Short Rains,108.0,3690.0,37,1451.0,59.5,20.6,0,0,217
+Tanga,Mbeya - Songea,Ferry,Weekday,Early Morning (5-7am),Cloudy,Long Rains,64.0,1510.0,17,11023.0,7.9,27.9,1,1,497
+Mbeya,Tabora - Shinyanga,Daladala,Weekday,Midday (10am-12pm),Heavy Rain,Short Rains,85.5,3680.0,12,3874.0,25.5,31.6,0,0,214
+Tabora,Tanga - Korogwe,BRT,Weekend,Morning Peak (7-9am),Rainy,Dry Season,31.8,430.0,21,6143.0,5.6,23.1,1,1,635
+Tabora,Tanga - Korogwe,Bus,Public Holiday,Night (8-10pm),Cloudy,Short Rains,54.7,2060.0,19,5544.0,49.6,21.9,0,1,316
+Tanga,Tanga - Korogwe,Ferry,Weekend,Early Morning (5-7am),Sunny,Dry Season,16.6,3250.0,3,9244.0,7.4,27.4,0,0,343
+Tabora,Mbeya - Songea,Taxi,Weekend,Early Morning (5-7am),Rainy,Dry Season,26.3,990.0,18,5334.0,41.1,20.8,0,0,227
+Mbeya,City Centre - Airport,Ferry,Weekday,Afternoon (1-3pm),Cloudy,Short Rains,2.1,4170.0,19,11351.0,5.3,30.0,1,1,482
+Arusha,Arusha - Moshi,Taxi,Weekend,Afternoon (1-3pm),Cloudy,Short Rains,6.6,1400.0,6,10879.0,41.0,28.9,1,1,316
+Tanga,Mwanza - Musoma,Bus,Weekend,Early Morning (5-7am),Rainy,Dry Season,117.3,3370.0,16,10530.0,50.9,19.6,1,1,334
+Dodoma,Iringa - Morogoro,Taxi,Weekday,Midday (10am-12pm),Cloudy,Long Rains,30.6,2200.0,8,1319.0,25.1,18.7,1,0,235
+Iringa,Ubungo - Kariakoo,Tuk-tuk,Weekend,Evening Peak (4-7pm),Cloudy,Dry Season,80.3,3100.0,18,10324.0,32.3,29.2,1,0,457
+Tabora,City Centre - Airport,Tuk-tuk,Weekday,Evening Peak (4-7pm),Heavy Rain,Short Rains,101.0,810.0,39,9489.0,25.3,23.3,1,0,462
+Tabora,Tabora - Shinyanga,Tuk-tuk,Weekday,Night (8-10pm),Sunny,Short Rains,67.0,380.0,12,1690.0,19.4,19.6,1,1,294
+Dar es Salaam,Ubungo - Kariakoo,Daladala,Weekend,Early Morning (5-7am),Cloudy,Long Rains,20.1,4570.0,10,1735.0,48.6,31.7,0,0,115
+Morogoro,Tanga - Korogwe,Bus,Weekday,Early Morning (5-7am),Sunny,Dry Season,87.9,1570.0,7,1663.0,17.8,23.7,0,0,289
+Tanga,Mbezi - Posta,Ferry,Weekday,Early Morning (5-7am),Cloudy,Dry Season,72.8,4150.0,1,630.0,43.9,26.3,1,1,254
+Zanzibar,Tabora - Shinyanga,Ferry,Weekday,Midday (10am-12pm),Rainy,Dry Season,88.3,5000.0,36,6809.0,14.0,22.3,1,1,460
+Tabora,Ubungo - Kariakoo,Daladala,Weekday,Afternoon (1-3pm),Sunny,Short Rains,92.8,1290.0,21,11694.0,16.5,29.3,0,0,415
+Iringa,Tanga - Korogwe,Taxi,Weekend,Early Morning (5-7am),Cloudy,Dry Season,117.1,1550.0,37,5545.0,21.5,23.4,1,0,401
+Dodoma,Ubungo - Kariakoo,Daladala,Weekday,Early Morning (5-7am),Sunny,Long Rains,69.7,3420.0,24,6719.0,36.2,35.4,1,1,367
+Tabora,Mbezi - Posta,Taxi,Weekday,Morning Peak (7-9am),Cloudy,Short Rains,42.3,4840.0,25,11632.0,28.4,30.7,0,0,393
+Dodoma,Tanga - Korogwe,Taxi,Weekend,Midday (10am-12pm),Sunny,Short Rains,78.5,4600.0,7,3435.0,45.2,20.5,1,0,152
+Mbeya,Arusha - Moshi,BRT,Weekday,Night (8-10pm),Rainy,Dry Season,10.1,2660.0,17,10372.0,14.4,25.5,1,0,416
+Mbeya,City Centre - Airport,Ferry,Weekday,Early Morning (5-7am),Sunny,Long Rains,107.9,4040.0,29,6783.0,2.6,24.9,1,1,449
+Morogoro,Dodoma - Kondoa,Tuk-tuk,Weekday,Morning Peak (7-9am),Cloudy,Short Rains,16.1,940.0,30,7049.0,47.0,27.6,0,1,459
+Arusha,Iringa - Morogoro,Taxi,Weekend,Evening Peak (4-7pm),Sunny,Short Rains,40.7,4890.0,7,4446.0,49.7,33.2,1,0,306
+Zanzibar,Mbeya - Songea,BRT,Weekday,Night (8-10pm),Rainy,Dry Season,98.3,4830.0,33,6958.0,5.4,28.5,1,0,425
+Dar es Salaam,Iringa - Morogoro,Ferry,Weekday,Early Morning (5-7am),Heavy Rain,Dry Season,72.5,1070.0,7,1341.0,37.4,19.1,1,1,266
+Morogoro,Tabora - Shinyanga,Tuk-tuk,Weekday,Early Morning (5-7am),Heavy Rain,Long Rains,48.4,1710.0,24,9293.0,23.9,29.8,1,1,344
+Mwanza,Iringa - Morogoro,Taxi,Weekday,Morning Peak (7-9am),Rainy,Dry Season,57.9,770.0,11,3774.0,48.0,18.1,0,1,382
+Dar es Salaam,Tanga - Korogwe,Taxi,Weekday,Midday (10am-12pm),Rainy,Long Rains,102.8,1580.0,9,10707.0,52.7,32.0,1,1,345
+Tanga,Arusha - Moshi,Daladala,Weekday,Early Morning (5-7am),Sunny,Short Rains,42.1,4130.0,12,4730.0,51.4,30.0,0,1,194
+Iringa,Dodoma - Kondoa,Daladala,Weekday,Evening Peak (4-7pm),Sunny,Long Rains,104.6,2080.0,35,2142.0,47.1,23.6,1,1,526
+Mwanza,City Centre - Airport,Ferry,Weekend,Early Morning (5-7am),Sunny,Long Rains,12.4,720.0,4,8503.0,17.6,23.3,1,0,365
+Mwanza,City Centre - Airport,Tuk-tuk,Weekday,Evening Peak (4-7pm),Rainy,Long Rains,93.7,1910.0,36,2393.0,49.1,32.4,1,0,390
+Morogoro,Mbezi - Posta,Taxi,Weekend,Night (8-10pm),Heavy Rain,Short Rains,102.0,4910.0,28,9167.0,32.9,32.1,1,0,183
+Arusha,Mbeya - Songea,Ferry,Public Holiday,Night (8-10pm),Sunny,Dry Season,23.5,3260.0,13,11633.0,5.1,24.3,1,1,483
+Morogoro,Ubungo - Kariakoo,Ferry,Weekend,Afternoon (1-3pm),Heavy Rain,Short Rains,52.8,2260.0,23,9465.0,28.5,23.4,0,1,313
+Tanga,Arusha - Moshi,Bus,Weekday,Afternoon (1-3pm),Cloudy,Dry Season,21.5,1080.0,19,758.0,56.6,28.1,1,1,388
+Tabora,Ubungo - Kariakoo,Daladala,Weekday,Evening Peak (4-7pm),Cloudy,Long Rains,85.4,4940.0,37,7399.0,53.5,18.2,0,0,389
+Tabora,Dodoma - Kondoa,Tuk-tuk,Weekday,Midday (10am-12pm),Sunny,Long Rains,65.2,4160.0,39,8497.0,7.9,19.5,1,0,392
+Arusha,Iringa - Morogoro,Taxi,Weekday,Early Morning (5-7am),Sunny,Long Rains,77.0,1620.0,24,9993.0,45.2,20.3,0,0,360
+Tanga,City Centre - Airport,Ferry,Weekday,Early Morning (5-7am),Cloudy,Long Rains,25.2,630.0,16,1144.0,48.7,21.3,1,0,348
+Arusha,Dodoma - Kondoa,Taxi,Public Holiday,Afternoon (1-3pm),Cloudy,Long Rains,27.0,570.0,33,6021.0,17.7,27.2,1,1,445
+Dodoma,Iringa - Morogoro,Bus,Weekend,Evening Peak (4-7pm),Sunny,Dry Season,6.9,870.0,12,6657.0,29.4,35.9,1,1,516
+Tabora,City Centre - Airport,Tuk-tuk,Weekday,Early Morning (5-7am),Cloudy,Dry Season,40.0,3030.0,34,2445.0,43.2,29.7,0,0,268
+Mwanza,Iringa - Morogoro,Ferry,Weekday,Early Morning (5-7am),Rainy,Long Rains,68.0,4670.0,7,4208.0,27.5,19.1,1,0,268
+Zanzibar,Mbeya - Songea,Taxi,Weekend,Midday (10am-12pm),Rainy,Short Rains,103.2,2630.0,11,5563.0,8.5,27.5,1,1,347
+Iringa,Arusha - Moshi,Daladala,Weekday,Morning Peak (7-9am),Heavy Rain,Short Rains,80.7,4260.0,31,10082.0,42.9,26.9,1,0,404
+Tanga,Tabora - Shinyanga,Bus,Weekday,Afternoon (1-3pm),Sunny,Long Rains,53.4,2400.0,29,11188.0,54.9,20.6,1,1,457
+Dar es Salaam,Dodoma - Kondoa,Tuk-tuk,Weekend,Afternoon (1-3pm),Sunny,Dry Season,114.5,3630.0,13,7727.0,39.8,34.6,1,0,296
+Arusha,Dodoma - Kondoa,Bus,Weekday,Morning Peak (7-9am),Cloudy,Short Rains,86.9,3740.0,31,5042.0,46.9,25.9,1,0,459
+Iringa,Mwanza - Musoma,Daladala,Weekday,Early Morning (5-7am),Sunny,Short Rains,111.8,1120.0,2,3421.0,22.8,35.9,0,0,255
+Dar es Salaam,Tanga - Korogwe,Tuk-tuk,Weekday,Midday (10am-12pm),Sunny,Short Rains,64.3,2000.0,39,11795.0,12.6,25.6,1,0,435
+Iringa,Mbeya - Songea,Bus,Weekend,Midday (10am-12pm),Sunny,Long Rains,32.6,3300.0,15,11805.0,39.3,28.9,1,1,386
+Zanzibar,Mbeya - Songea,BRT,Weekday,Afternoon (1-3pm),Sunny,Short Rains,8.2,630.0,11,11137.0,21.0,19.9,1,0,496
+Dar es Salaam,Ubungo - Kariakoo,Daladala,Weekday,Midday (10am-12pm),Sunny,Short Rains,87.7,2000.0,34,9535.0,51.9,26.2,0,0,419
+Morogoro,Iringa - Morogoro,Daladala,Weekday,Night (8-10pm),Sunny,Short Rains,16.3,2810.0,39,4246.0,9.1,22.3,1,0,422
+Mbeya,Tanga - Korogwe,Daladala,Weekday,Morning Peak (7-9am),Sunny,Short Rains,37.7,4980.0,4,9896.0,27.1,33.0,1,0,405
+Morogoro,Arusha - Moshi,BRT,Weekday,Early Morning (5-7am),Sunny,Dry Season,64.8,2530.0,11,5201.0,25.0,32.1,0,0,393
+Tabora,Arusha - Moshi,BRT,Weekend,Night (8-10pm),Cloudy,Long Rains,68.6,4140.0,29,4258.0,56.4,32.8,1,1,263
+Mbeya,Mbeya - Songea,Taxi,Weekday,Morning Peak (7-9am),Cloudy,Long Rains,72.9,2330.0,2,9066.0,10.9,31.0,0,1,419
+Morogoro,Arusha - Moshi,Ferry,Weekend,Evening Peak (4-7pm),Cloudy,Dry Season,21.6,4040.0,16,1416.0,2.6,33.0,0,1,440
+Mbeya,Mwanza - Musoma,Bus,Weekday,Afternoon (1-3pm),Sunny,Dry Season,46.8,3100.0,39,1058.0,15.8,21.6,1,0,418
+Mbeya,Dodoma - Kondoa,Taxi,Weekday,Midday (10am-12pm),Sunny,Long Rains,74.8,4470.0,13,5651.0,49.6,26.1,1,0,224
+Mwanza,Mbezi - Posta,Bus,Weekday,Evening Peak (4-7pm),Cloudy,Short Rains,116.4,2230.0,37,5625.0,14.1,30.5,0,0,531
+Arusha,Tabora - Shinyanga,Ferry,Weekday,Midday (10am-12pm),Cloudy,Short Rains,87.9,3140.0,17,10800.0,16.0,29.5,1,0,448
+Arusha,Ubungo - Kariakoo,BRT,Weekday,Night (8-10pm),Cloudy,Long Rains,110.9,3260.0,21,1951.0,9.5,30.9,1,1,397
+Mwanza,Iringa - Morogoro,Ferry,Weekday,Early Morning (5-7am),Sunny,Short Rains,91.9,2260.0,19,1918.0,43.5,22.0,1,1,373
+Iringa,Tabora - Shinyanga,BRT,Weekday,Early Morning (5-7am),Heavy Rain,Dry Season,71.8,980.0,7,2196.0,6.0,19.8,1,1,377
+Dodoma,Iringa - Morogoro,Ferry,Weekday,Early Morning (5-7am),Sunny,Short Rains,24.7,740.0,38,842.0,21.2,34.5,1,0,457
+Iringa,City Centre - Airport,Taxi,Weekday,Midday (10am-12pm),Sunny,Short Rains,80.7,380.0,8,1325.0,18.4,28.1,1,0,354
+Dar es Salaam,Tabora - Shinyanga,Tuk-tuk,Weekend,Evening Peak (4-7pm),Cloudy,Short Rains,75.6,4410.0,13,8089.0,34.2,20.8,0,1,334
+Dar es Salaam,Mbezi - Posta,Taxi,Public Holiday,Early Morning (5-7am),Cloudy,Long Rains,73.1,1410.0,37,5463.0,44.4,32.3,1,0,413
+Mbeya,Mbeya - Songea,Bus,Weekday,Evening Peak (4-7pm),Sunny,Dry Season,59.8,1290.0,2,9281.0,32.9,34.5,1,0,489
+Morogoro,Mwanza - Musoma,Taxi,Weekday,Midday (10am-12pm),Sunny,Short Rains,64.4,3760.0,11,11915.0,56.0,21.1,1,1,358
+Morogoro,Dodoma - Kondoa,Daladala,Weekday,Night (8-10pm),Rainy,Long Rains,41.5,1800.0,24,8079.0,57.2,32.7,0,1,257
+Arusha,Dodoma - Kondoa,Bus,Weekday,Evening Peak (4-7pm),Sunny,Short Rains,63.3,2680.0,6,1080.0,23.0,34.8,1,1,450
+Tanga,Mwanza - Musoma,Ferry,Weekday,Night (8-10pm),Sunny,Dry Season,25.3,1060.0,26,1702.0,47.1,34.9,0,0,318
+Iringa,Tanga - Korogwe,Bus,Weekend,Midday (10am-12pm),Sunny,Short Rains,97.0,4810.0,7,10632.0,44.9,34.5,1,0,259
+Tabora,City Centre - Airport,Tuk-tuk,Weekday,Midday (10am-12pm),Rainy,Dry Season,23.9,4300.0,39,6566.0,53.8,27.8,0,0,314
+Zanzibar,Iringa - Morogoro,BRT,Weekday,Afternoon (1-3pm),Sunny,Short Rains,12.0,4360.0,19,9986.0,28.0,24.4,1,1,425
+Morogoro,Mbezi - Posta,Ferry,Weekend,Midday (10am-12pm),Heavy Rain,Dry Season,53.5,2210.0,6,10351.0,32.8,18.1,1,0,316
+Zanzibar,Arusha - Moshi,Bus,Weekday,Midday (10am-12pm),Cloudy,Short Rains,79.7,3880.0,29,11168.0,26.1,19.1,1,1,456
+Mbeya,Tabora - Shinyanga,Ferry,Weekend,Morning Peak (7-9am),Heavy Rain,Dry Season,53.7,980.0,39,11423.0,51.3,25.7,0,1,628
+Zanzibar,City Centre - Airport,Ferry,Weekday,Early Morning (5-7am),Heavy Rain,Short Rains,34.7,340.0,2,6880.0,15.3,25.2,0,1,304
+Tabora,Tabora - Shinyanga,Ferry,Weekday,Afternoon (1-3pm),Sunny,Short Rains,67.9,390.0,19,4422.0,15.9,21.3,0,0,404
+Mwanza,Mbezi - Posta,BRT,Weekday,Afternoon (1-3pm),Sunny,Long Rains,42.9,3060.0,4,11561.0,23.6,25.1,0,0,343
+Tabora,Ubungo - Kariakoo,Taxi,Weekday,Afternoon (1-3pm),Sunny,Long Rains,112.1,2440.0,6,6795.0,15.4,21.1,1,1,300
+Zanzibar,Ubungo - Kariakoo,Ferry,Public Holiday,Morning Peak (7-9am),Sunny,Dry Season,110.9,2730.0,37,1239.0,34.5,33.3,0,1,517
+Tabora,City Centre - Airport,Daladala,Weekday,Night (8-10pm),Cloudy,Short Rains,61.3,340.0,28,7892.0,9.8,23.4,1,1,469
+Dodoma,Mbeya - Songea,Tuk-tuk,Public Holiday,Midday (10am-12pm),Sunny,Dry Season,40.7,2290.0,30,7258.0,20.6,28.8,0,0,392
+Mbeya,Mbezi - Posta,BRT,Weekday,Early Morning (5-7am),Sunny,Long Rains,89.0,3670.0,7,10802.0,55.0,27.1,1,1,345
+Iringa,Mbezi - Posta,Bus,Weekday,Evening Peak (4-7pm),Sunny,Dry Season,6.3,2380.0,9,8012.0,25.7,18.9,1,1,553
+Mwanza,Mwanza - Musoma,BRT,Weekday,Night (8-10pm),Heavy Rain,Dry Season,58.0,3740.0,25,4514.0,45.4,35.0,0,0,272
+Morogoro,Mbeya - Songea,Bus,Weekday,Midday (10am-12pm),Sunny,Long Rains,41.7,1400.0,33,11612.0,8.6,27.5,1,1,564
+Dar es Salaam,Iringa - Morogoro,BRT,Public Holiday,Morning Peak (7-9am),Sunny,Short Rains,110.6,4120.0,1,9719.0,16.4,23.9,0,1,562
+Iringa,Iringa - Morogoro,Bus,Weekday,Midday (10am-12pm),Sunny,Dry Season,3.4,3070.0,6,7750.0,48.8,20.8,0,0,292
+Dar es Salaam,Arusha - Moshi,Ferry,Weekday,Midday (10am-12pm),Heavy Rain,Long Rains,67.2,1290.0,18,3869.0,46.3,24.1,1,0,315
+Mbeya,Dodoma - Kondoa,Taxi,Weekday,Morning Peak (7-9am),Cloudy,Short Rains,89.4,1410.0,10,4796.0,24.4,18.4,1,1,455
+Mwanza,Ubungo - Kariakoo,Bus,Weekday,Afternoon (1-3pm),Sunny,Long Rains,59.2,3250.0,28,8205.0,57.4,24.5,1,0,317
+Arusha,Iringa - Morogoro,Bus,Weekday,Afternoon (1-3pm),Sunny,Dry Season,12.1,4200.0,11,1328.0,54.8,27.6,1,1,286
+Morogoro,Mbeya - Songea,Daladala,Weekday,Early Morning (5-7am),Sunny,Short Rains,116.8,2250.0,33,3452.0,57.8,33.7,1,1,356
+Dodoma,Mbezi - Posta,Bus,Weekend,Early Morning (5-7am),Sunny,Short Rains,63.1,1510.0,1,8710.0,26.8,30.4,1,1,369
+Arusha,Iringa - Morogoro,Daladala,Weekday,Afternoon (1-3pm),Heavy Rain,Long Rains,74.5,4370.0,13,6020.0,13.5,20.0,1,1,291
+Mbeya,Mbezi - Posta,Tuk-tuk,Weekday,Night (8-10pm),Rainy,Long Rains,29.9,3450.0,37,5128.0,38.3,20.7,1,0,281
+Iringa,Iringa - Morogoro,Ferry,Weekday,Evening Peak (4-7pm),Sunny,Long Rains,59.1,2410.0,20,2242.0,41.7,25.7,0,0,397
+Dodoma,Ubungo - Kariakoo,Daladala,Weekday,Midday (10am-12pm),Rainy,Short Rains,52.6,2590.0,1,5581.0,9.3,21.5,0,1,269
+Tabora,Tabora - Shinyanga,Taxi,Public Holiday,Evening Peak (4-7pm),Sunny,Short Rains,10.8,1260.0,3,9363.0,47.6,18.5,1,0,430
+Zanzibar,Iringa - Morogoro,Ferry,Weekday,Midday (10am-12pm),Cloudy,Dry Season,14.5,3250.0,18,3536.0,3.0,32.5,1,1,446
+Dodoma,Mbeya - Songea,Daladala,Weekday,Afternoon (1-3pm),Rainy,Short Rains,100.8,1990.0,14,562.0,30.0,18.4,0,1,277
+Mbeya,Iringa - Morogoro,Ferry,Weekday,Early Morning (5-7am),Sunny,Dry Season,30.3,4980.0,31,8188.0,21.2,33.0,1,0,426
+Tanga,Dodoma - Kondoa,Ferry,Weekday,Night (8-10pm),Rainy,Long Rains,25.0,2560.0,27,11685.0,44.9,20.6,0,0,301
+Zanzibar,Ubungo - Kariakoo,Ferry,Weekday,Early Morning (5-7am),Sunny,Long Rains,61.6,2580.0,17,7479.0,20.1,35.5,1,1,444
+Dar es Salaam,Mbeya - Songea,Tuk-tuk,Public Holiday,Evening Peak (4-7pm),Sunny,Short Rains,92.7,2960.0,29,1879.0,50.0,28.9,0,1,408
+Morogoro,Mwanza - Musoma,Taxi,Weekend,Early Morning (5-7am),Sunny,Long Rains,9.3,4610.0,36,4188.0,36.5,31.2,1,0,256
+Dar es Salaam,Mbeya - Songea,BRT,Public Holiday,Afternoon (1-3pm),Sunny,Long Rains,70.1,4060.0,37,10478.0,48.0,20.0,1,1,526
+Dodoma,Dodoma - Kondoa,BRT,Weekday,Night (8-10pm),Cloudy,Short Rains,16.1,2420.0,26,3175.0,59.4,33.5,0,1,340
+Dar es Salaam,Tabora - Shinyanga,Daladala,Weekday,Evening Peak (4-7pm),Heavy Rain,Dry Season,6.3,3680.0,17,7489.0,41.4,33.1,1,1,411
+Mbeya,Ubungo - Kariakoo,Ferry,Weekday,Night (8-10pm),Cloudy,Short Rains,8.2,3060.0,22,5131.0,59.1,29.8,1,0,275
+Tabora,Mwanza - Musoma,Daladala,Weekday,Midday (10am-12pm),Rainy,Dry Season,100.4,2610.0,25,2890.0,3.7,27.0,0,0,336
+Iringa,Dodoma - Kondoa,Tuk-tuk,Weekend,Early Morning (5-7am),Rainy,Short Rains,15.9,1200.0,2,9854.0,21.6,31.0,0,1,282
+Morogoro,Dodoma - Kondoa,Tuk-tuk,Weekday,Night (8-10pm),Sunny,Short Rains,7.3,2480.0,22,9043.0,8.3,18.1,0,1,332
+Dar es Salaam,City Centre - Airport,Bus,Weekend,Morning Peak (7-9am),Sunny,Long Rains,53.7,1460.0,5,8108.0,17.2,28.7,1,0,466
+Dar es Salaam,Ubungo - Kariakoo,Tuk-tuk,Weekday,Early Morning (5-7am),Sunny,Short Rains,101.6,4600.0,4,3218.0,50.7,33.3,1,1,190
+Dodoma,Mbeya - Songea,Bus,Weekday,Midday (10am-12pm),Cloudy,Short Rains,33.0,1880.0,36,1625.0,3.9,24.4,0,1,380
+Iringa,Mbezi - Posta,Taxi,Weekday,Night (8-10pm),Heavy Rain,Dry Season,51.8,4780.0,6,7126.0,32.2,19.9,1,0,147
+Arusha,Tabora - Shinyanga,Daladala,Weekday,Evening Peak (4-7pm),Sunny,Long Rains,6.7,2810.0,21,6867.0,34.9,25.6,0,1,464
+Dar es Salaam,Mbezi - Posta,Taxi,Weekday,Midday (10am-12pm),Cloudy,Dry Season,55.0,3270.0,13,2666.0,34.5,31.1,1,1,321
+Mbeya,Mbeya - Songea,Tuk-tuk,Weekend,Morning Peak (7-9am),Cloudy,Dry Season,70.2,2850.0,37,1147.0,29.6,19.9,0,0,307
+Tanga,Mbeya - Songea,Taxi,Weekday,Night (8-10pm),Cloudy,Long Rains,69.4,910.0,25,1428.0,47.9,21.7,1,0,234
+Morogoro,Ubungo - Kariakoo,Taxi,Weekday,Afternoon (1-3pm),Sunny,Long Rains,41.2,2070.0,26,11917.0,9.7,20.7,1,1,466
+Dar es Salaam,Mbeya - Songea,Taxi,Weekday,Early Morning (5-7am),Sunny,Long Rains,39.2,770.0,39,9511.0,20.0,32.3,1,0,407
+Mbeya,City Centre - Airport,Tuk-tuk,Public Holiday,Evening Peak (4-7pm),Sunny,Short Rains,14.6,3230.0,20,11103.0,37.7,19.1,1,0,471
+Mbeya,Mwanza - Musoma,Ferry,Weekday,Afternoon (1-3pm),Sunny,Long Rains,45.3,2400.0,33,2743.0,42.1,30.4,1,1,435
+Morogoro,Mbeya - Songea,Taxi,Weekend,Night (8-10pm),Sunny,Long Rains,13.7,3960.0,14,11547.0,25.4,24.6,0,1,238
+Arusha,Mbezi - Posta,Bus,Weekday,Night (8-10pm),Cloudy,Long Rains,92.5,1340.0,36,2141.0,52.8,31.6,1,1,393
+Mbeya,Mbeya - Songea,Tuk-tuk,Weekend,Midday (10am-12pm),Sunny,Dry Season,116.0,1070.0,17,6354.0,26.1,35.4,1,1,365
+Tanga,City Centre - Airport,Taxi,Weekend,Night (8-10pm),Rainy,Dry Season,116.5,2210.0,21,10042.0,25.4,20.1,1,0,336
+Mbeya,Iringa - Morogoro,Ferry,Weekday,Evening Peak (4-7pm),Cloudy,Short Rains,104.1,4650.0,16,4523.0,4.1,23.7,1,0,475
+Mbeya,Iringa - Morogoro,Tuk-tuk,Weekday,Afternoon (1-3pm),Cloudy,Dry Season,72.9,3640.0,16,5386.0,34.0,32.6,1,0,266
+Mbeya,Dodoma - Kondoa,BRT,Weekend,Evening Peak (4-7pm),Sunny,Short Rains,84.7,2270.0,20,1974.0,43.1,22.8,1,0,485
+Tabora,Tabora - Shinyanga,Ferry,Weekday,Morning Peak (7-9am),Cloudy,Dry Season,35.7,2730.0,29,1914.0,8.6,21.9,0,1,518
+Tabora,Arusha - Moshi,Bus,Weekend,Morning Peak (7-9am),Heavy Rain,Long Rains,76.4,700.0,28,7625.0,19.7,32.9,1,1,517
+Arusha,Mwanza - Musoma,Taxi,Weekday,Early Morning (5-7am),Sunny,Dry Season,55.8,4930.0,8,8269.0,47.3,35.8,1,0,249
+Dar es Salaam,Tanga - Korogwe,BRT,Weekend,Early Morning (5-7am),Sunny,Short Rains,58.9,3430.0,24,9439.0,23.2,28.0,1,0,425
+Mbeya,Dodoma - Kondoa,BRT,Weekend,Morning Peak (7-9am),Rainy,Dry Season,91.4,1640.0,3,6902.0,16.0,23.0,1,0,518
+Iringa,Tabora - Shinyanga,Tuk-tuk,Weekend,Night (8-10pm),Sunny,Long Rains,35.3,3050.0,25,7926.0,41.0,25.2,1,1,273
+Dar es Salaam,Iringa - Morogoro,BRT,Weekday,Evening Peak (4-7pm),Sunny,Short Rains,39.5,810.0,19,655.0,13.4,21.1,0,0,457
+Arusha,Mbezi - Posta,Bus,Weekday,Morning Peak (7-9am),Sunny,Long Rains,111.1,4840.0,33,2365.0,53.9,31.7,1,0,399
+Mwanza,Tanga - Korogwe,Bus,Weekday,Early Morning (5-7am),Sunny,Long Rains,8.6,1120.0,2,11827.0,8.1,31.9,1,1,483
+Dar es Salaam,Tabora - Shinyanga,Daladala,Weekday,Morning Peak (7-9am),Cloudy,Short Rains,59.3,3350.0,15,1374.0,43.0,33.8,1,0,354
+Dar es Salaam,Tabora - Shinyanga,Bus,Weekday,Night (8-10pm),Sunny,Long Rains,109.7,1450.0,22,8306.0,31.0,18.5,0,0,375
+Zanzibar,Dodoma - Kondoa,Ferry,Weekday,Morning Peak (7-9am),Rainy,Long Rains,74.0,3670.0,10,2525.0,52.5,28.1,0,1,361
+Dodoma,Tanga - Korogwe,BRT,Weekend,Evening Peak (4-7pm),Rainy,Dry Season,66.5,3950.0,18,8742.0,9.3,21.9,0,0,464
+Zanzibar,Ubungo - Kariakoo,Bus,Weekday,Afternoon (1-3pm),Cloudy,Long Rains,31.5,3470.0,22,8619.0,41.3,24.1,1,1,341
+Tanga,Arusha - Moshi,Tuk-tuk,Weekday,Night (8-10pm),Cloudy,Long Rains,42.5,3190.0,27,3193.0,35.2,32.1,1,0,190
+Tabora,Ubungo - Kariakoo,Daladala,Weekday,Early Morning (5-7am),Rainy,Long Rains,102.5,4490.0,13,3601.0,29.8,21.5,0,0,172
+Tabora,Tanga - Korogwe,BRT,Weekday,Evening Peak (4-7pm),Sunny,Long Rains,68.0,670.0,33,8030.0,30.5,29.5,1,0,598
+Dodoma,Ubungo - Kariakoo,Daladala,Weekday,Morning Peak (7-9am),Rainy,Short Rains,62.7,1860.0,5,4986.0,43.9,29.8,1,1,425
+Morogoro,City Centre - Airport,BRT,Public Holiday,Morning Peak (7-9am),Rainy,Dry Season,13.8,1470.0,26,2737.0,56.4,35.2,1,1,604
+Morogoro,Iringa - Morogoro,Tuk-tuk,Public Holiday,Afternoon (1-3pm),Cloudy,Long Rains,3.9,4940.0,13,8914.0,7.3,32.0,0,1,332
+Arusha,City Centre - Airport,Daladala,Weekday,Early Morning (5-7am),Cloudy,Long Rains,115.7,2130.0,27,2273.0,3.1,32.5,1,1,393
+Dodoma,Mbeya - Songea,Taxi,Weekday,Early Morning (5-7am),Sunny,Short Rains,46.5,3740.0,14,10340.0,48.7,27.6,0,1,298
+Dar es Salaam,Ubungo - Kariakoo,Ferry,Weekend,Midday (10am-12pm),Sunny,Long Rains,73.2,3520.0,24,6419.0,8.3,21.4,1,0,407
+Morogoro,Mbeya - Songea,Ferry,Weekday,Early Morning (5-7am),Rainy,Short Rains,11.4,1300.0,3,1716.0,59.2,25.7,0,0,241
+Mbeya,Mbezi - Posta,BRT,Weekday,Afternoon (1-3pm),Sunny,Dry Season,82.6,1420.0,30,8482.0,37.9,27.9,1,0,483
+Iringa,Mwanza - Musoma,Taxi,Weekday,Midday (10am-12pm),Rainy,Dry Season,112.0,1620.0,35,6470.0,39.8,30.2,1,0,339
+Dar es Salaam,Mbezi - Posta,Daladala,Weekday,Midday (10am-12pm),Sunny,Long Rains,69.9,2230.0,14,3928.0,13.5,28.9,0,0,256
+Tanga,Tanga - Korogwe,Taxi,Weekday,Morning Peak (7-9am),Sunny,Long Rains,16.9,1400.0,12,5359.0,15.9,25.1,0,0,405
+Mbeya,Tabora - Shinyanga,Taxi,Weekday,Morning Peak (7-9am),Sunny,Long Rains,70.6,390.0,28,3931.0,40.2,22.8,1,0,434
+Mbeya,Iringa - Morogoro,Daladala,Weekday,Early Morning (5-7am),Sunny,Short Rains,92.4,4430.0,29,3525.0,54.8,21.0,1,0,240
+Dodoma,Ubungo - Kariakoo,Tuk-tuk,Public Holiday,Midday (10am-12pm),Cloudy,Long Rains,50.0,4840.0,17,2381.0,59.0,30.5,1,0,235
+Arusha,Dodoma - Kondoa,Taxi,Weekday,Morning Peak (7-9am),Sunny,Long Rains,105.8,1910.0,21,4672.0,13.5,29.6,0,1,408
+Tanga,Mwanza - Musoma,Taxi,Weekend,Afternoon (1-3pm),Heavy Rain,Dry Season,78.5,1890.0,23,3386.0,9.8,30.4,0,1,273
+Morogoro,Arusha - Moshi,Tuk-tuk,Weekend,Morning Peak (7-9am),Cloudy,Long Rains,108.1,330.0,20,8359.0,5.3,24.7,1,0,517
+Dodoma,Arusha - Moshi,Taxi,Weekday,Night (8-10pm),Sunny,Dry Season,75.6,3500.0,11,8365.0,52.4,22.7,0,0,200
+Morogoro,Arusha - Moshi,Taxi,Weekday,Night (8-10pm),Cloudy,Long Rains,17.5,4180.0,34,6271.0,19.1,31.7,1,0,327
+Dodoma,Ubungo - Kariakoo,Taxi,Weekday,Morning Peak (7-9am),Rainy,Dry Season,38.5,990.0,10,9446.0,2.1,31.9,0,1,481
+Dodoma,Arusha - Moshi,Ferry,Weekday,Midday (10am-12pm),Cloudy,Long Rains,25.8,1050.0,10,10175.0,15.0,26.2,1,0,493
+Dodoma,City Centre - Airport,Bus,Weekend,Midday (10am-12pm),Sunny,Dry Season,109.2,4010.0,6,7167.0,21.7,29.0,0,1,283
+Arusha,Mwanza - Musoma,Tuk-tuk,Weekday,Evening Peak (4-7pm),Rainy,Short Rains,91.7,3200.0,36,7618.0,59.5,24.7,0,0,377
+Dodoma,City Centre - Airport,Taxi,Public Holiday,Night (8-10pm),Rainy,Dry Season,81.8,510.0,24,3753.0,32.4,30.6,1,0,358
+Mwanza,Tabora - Shinyanga,Ferry,Weekday,Afternoon (1-3pm),Sunny,Dry Season,37.5,3230.0,12,10791.0,13.9,33.0,1,0,347
+Iringa,Mwanza - Musoma,Tuk-tuk,Weekday,Midday (10am-12pm),Sunny,Dry Season,23.7,1750.0,23,778.0,21.4,30.4,0,0,289
+Morogoro,City Centre - Airport,BRT,Weekday,Early Morning (5-7am),Cloudy,Long Rains,91.3,2030.0,27,4509.0,21.2,27.2,0,1,411
+Dar es Salaam,Mwanza - Musoma,BRT,Weekday,Night (8-10pm),Sunny,Long Rains,58.0,3920.0,37,8801.0,3.1,26.3,0,0,418
+Zanzibar,Tabora - Shinyanga,Taxi,Weekday,Afternoon (1-3pm),Rainy,Long Rains,28.6,4110.0,6,1421.0,9.8,29.6,1,1,258
+Tanga,Mbeya - Songea,Ferry,Weekday,Afternoon (1-3pm),Sunny,Short Rains,74.8,2180.0,1,2606.0,42.3,30.2,1,1,303
+Tabora,Ubungo - Kariakoo,Ferry,Weekday,Midday (10am-12pm),Heavy Rain,Short Rains,6.8,4750.0,6,7277.0,9.0,28.1,0,1,263
+Arusha,Ubungo - Kariakoo,Tuk-tuk,Weekday,Afternoon (1-3pm),Cloudy,Dry Season,40.5,2210.0,22,6940.0,15.4,29.2,1,0,380
+Dar es Salaam,Arusha - Moshi,Tuk-tuk,Public Holiday,Midday (10am-12pm),Sunny,Short Rains,57.3,3930.0,24,8998.0,22.3,19.7,1,0,408
+Mbeya,Mbezi - Posta,Ferry,Weekday,Morning Peak (7-9am),Sunny,Dry Season,19.5,2570.0,25,9845.0,45.9,35.1,1,0,587
+Mwanza,Arusha - Moshi,Tuk-tuk,Weekend,Night (8-10pm),Cloudy,Dry Season,118.2,4520.0,15,1979.0,35.8,32.2,1,0,172
+Tabora,Tanga - Korogwe,Ferry,Weekend,Evening Peak (4-7pm),Rainy,Dry Season,26.7,4570.0,26,711.0,42.0,24.7,0,1,365
+Zanzibar,City Centre - Airport,Bus,Public Holiday,Morning Peak (7-9am),Rainy,Short Rains,17.4,710.0,8,8431.0,34.9,28.1,0,0,432
+Dar es Salaam,Mwanza - Musoma,Ferry,Weekday,Night (8-10pm),Sunny,Long Rains,26.0,4700.0,24,3966.0,41.6,18.9,0,1,280
+Tabora,Mbezi - Posta,BRT,Weekend,Midday (10am-12pm),Sunny,Short Rains,92.7,4180.0,38,7699.0,2.2,18.7,1,0,502
+Dar es Salaam,Tabora - Shinyanga,Tuk-tuk,Weekday,Night (8-10pm),Sunny,Dry Season,52.2,4020.0,6,2231.0,56.0,22.5,1,1,159
+Mwanza,Tanga - Korogwe,Ferry,Weekday,Midday (10am-12pm),Cloudy,Dry Season,68.7,1240.0,35,5894.0,8.4,30.4,1,0,515
+Zanzibar,Tabora - Shinyanga,Ferry,Weekday,Morning Peak (7-9am),Sunny,Short Rains,4.5,4080.0,1,6301.0,25.6,33.3,0,0,380
+Mbeya,Ubungo - Kariakoo,Tuk-tuk,Weekend,Early Morning (5-7am),Sunny,Dry Season,6.1,4300.0,36,7228.0,46.7,28.1,1,1,356
+Dodoma,Ubungo - Kariakoo,Bus,Weekday,Early Morning (5-7am),Cloudy,Dry Season,54.6,1660.0,12,6401.0,27.2,27.6,0,0,337
+Morogoro,Arusha - Moshi,Bus,Weekend,Night (8-10pm),Heavy Rain,Short Rains,98.4,4780.0,38,6200.0,56.9,25.2,0,1,211
+Mbeya,City Centre - Airport,Tuk-tuk,Weekday,Early Morning (5-7am),Sunny,Short Rains,106.5,530.0,11,4326.0,29.1,20.9,1,0,318
+Dodoma,Mbezi - Posta,Daladala,Weekend,Midday (10am-12pm),Sunny,Short Rains,12.2,1000.0,12,1319.0,52.7,20.1,0,0,238
+Arusha,Iringa - Morogoro,Tuk-tuk,Public Holiday,Afternoon (1-3pm),Cloudy,Dry Season,65.5,2830.0,39,1529.0,49.0,31.7,0,1,346
+Iringa,Tanga - Korogwe,Tuk-tuk,Weekday,Midday (10am-12pm),Cloudy,Dry Season,109.8,3010.0,7,5488.0,58.9,34.7,1,1,282
+Tanga,Tanga - Korogwe,Bus,Public Holiday,Afternoon (1-3pm),Sunny,Long Rains,47.8,3330.0,11,4592.0,55.7,26.2,0,0,264
+Tanga,Arusha - Moshi,Bus,Weekday,Morning Peak (7-9am),Heavy Rain,Long Rains,99.9,380.0,36,6436.0,54.1,29.9,0,1,488
+Morogoro,Ubungo - Kariakoo,Tuk-tuk,Weekday,Evening Peak (4-7pm),Rainy,Short Rains,17.8,4810.0,31,4006.0,44.4,34.5,0,1,342
+Zanzibar,Arusha - Moshi,Tuk-tuk,Weekday,Afternoon (1-3pm),Sunny,Long Rains,112.4,510.0,33,8411.0,23.3,19.6,1,1,460
+Mwanza,Mwanza - Musoma,Tuk-tuk,Weekday,Early Morning (5-7am),Sunny,Dry Season,90.7,970.0,13,10435.0,8.2,31.9,1,0,381
+Zanzibar,Mbezi - Posta,Bus,Weekday,Midday (10am-12pm),Cloudy,Long Rains,113.1,370.0,18,3937.0,41.9,29.1,0,0,318
+Mwanza,City Centre - Airport,Tuk-tuk,Weekday,Morning Peak (7-9am),Rainy,Dry Season,81.8,2960.0,24,2719.0,58.8,28.8,1,1,387
+Zanzibar,Mbeya - Songea,Tuk-tuk,Weekday,Early Morning (5-7am),Sunny,Short Rains,44.9,4680.0,9,1836.0,44.1,23.3,0,1,167
+Iringa,Dodoma - Kondoa,Taxi,Public Holiday,Morning Peak (7-9am),Cloudy,Short Rains,112.7,3430.0,31,7587.0,55.9,30.3,1,0,506
+Arusha,Dodoma - Kondoa,Daladala,Weekend,Evening Peak (4-7pm),Cloudy,Dry Season,34.5,4170.0,10,5604.0,48.6,32.3,1,0,349
+Arusha,Arusha - Moshi,BRT,Weekend,Midday (10am-12pm),Sunny,Long Rains,41.2,360.0,2,2662.0,11.5,20.0,1,0,400
+Dodoma,Mwanza - Musoma,Daladala,Weekend,Night (8-10pm),Cloudy,Short Rains,84.7,2850.0,38,8011.0,16.5,27.6,1,1,398
+Tabora,Mbezi - Posta,Taxi,Weekday,Midday (10am-12pm),Heavy Rain,Short Rains,92.3,2460.0,15,2208.0,21.8,19.8,1,0,259
+Arusha,Iringa - Morogoro,BRT,Weekday,Evening Peak (4-7pm),Sunny,Long Rains,111.7,2650.0,3,6874.0,11.8,33.7,1,0,545
+Arusha,Dodoma - Kondoa,Tuk-tuk,Weekday,Midday (10am-12pm),Sunny,Long Rains,26.2,640.0,31,6562.0,35.7,27.1,1,0,339
+Mbeya,Mbezi - Posta,Taxi,Weekend,Night (8-10pm),Sunny,Dry Season,96.2,3520.0,6,8944.0,58.6,32.5,1,1,221
+Mbeya,City Centre - Airport,Tuk-tuk,Weekday,Afternoon (1-3pm),Rainy,Long Rains,89.1,2670.0,3,1134.0,46.2,24.6,0,0,49
+Dodoma,Tabora - Shinyanga,Bus,Weekday,Morning Peak (7-9am),Heavy Rain,Long Rains,9.5,3900.0,11,10711.0,26.6,20.3,0,0,350
+Tabora,Mwanza - Musoma,Ferry,Weekday,Night (8-10pm),Sunny,Long Rains,47.7,2580.0,15,8584.0,2.3,18.7,0,1,345
+Morogoro,Ubungo - Kariakoo,Taxi,Weekday,Early Morning (5-7am),Rainy,Dry Season,35.4,1000.0,28,2985.0,20.2,23.1,0,1,339
+Mbeya,Mbezi - Posta,Bus,Weekday,Evening Peak (4-7pm),Cloudy,Dry Season,37.9,3350.0,10,2609.0,32.6,22.4,1,0,431
+Morogoro,City Centre - Airport,Taxi,Weekday,Afternoon (1-3pm),Cloudy,Short Rains,118.0,1110.0,38,5464.0,20.8,28.1,1,0,425
+Dar es Salaam,Iringa - Morogoro,Taxi,Weekday,Early Morning (5-7am),Sunny,Dry Season,77.8,4400.0,7,9902.0,8.4,18.4,1,1,365
+Mbeya,Mbeya - Songea,Bus,Weekday,Early Morning (5-7am),Sunny,Short Rains,86.7,3180.0,15,10194.0,27.7,27.4,0,1,384
+Iringa,Ubungo - Kariakoo,BRT,Weekday,Evening Peak (4-7pm),Sunny,Long Rains,117.2,1040.0,18,6485.0,16.7,25.1,0,1,556
+Tabora,Mbeya - Songea,Daladala,Weekday,Afternoon (1-3pm),Cloudy,Short Rains,46.5,4820.0,18,10399.0,54.7,28.4,1,1,336
+Dodoma,Iringa - Morogoro,Tuk-tuk,Weekend,Early Morning (5-7am),Sunny,Short Rains,96.6,2740.0,24,563.0,7.9,30.6,0,1,286
+Dar es Salaam,City Centre - Airport,Taxi,Weekday,Early Morning (5-7am),Heavy Rain,Long Rains,53.3,640.0,2,905.0,4.9,29.4,0,1,195
+Tabora,Dodoma - Kondoa,Tuk-tuk,Weekday,Afternoon (1-3pm),Sunny,Short Rains,104.6,3250.0,20,10986.0,2.3,35.7,1,0,405
+Iringa,Mbeya - Songea,Ferry,Weekend,Midday (10am-12pm),Sunny,Dry Season,23.3,1490.0,34,9416.0,21.0,20.5,1,0,457
+Tabora,Ubungo - Kariakoo,Bus,Weekday,Early Morning (5-7am),Cloudy,Dry Season,113.8,4080.0,26,5683.0,40.3,25.7,1,0,323
+Iringa,Arusha - Moshi,Tuk-tuk,Weekday,Morning Peak (7-9am),Cloudy,Dry Season,27.8,4140.0,7,9167.0,44.4,25.6,1,0,428
+Iringa,Tanga - Korogwe,Bus,Weekday,Afternoon (1-3pm),Sunny,Dry Season,40.5,4900.0,38,11490.0,28.3,25.5,1,1,472
+Morogoro,Mbezi - Posta,Tuk-tuk,Weekend,Early Morning (5-7am),Sunny,Short Rains,91.2,2660.0,30,9379.0,41.7,29.9,1,0,293
+Zanzibar,Dodoma - Kondoa,Daladala,Weekday,Evening Peak (4-7pm),Heavy Rain,Short Rains,48.5,2440.0,5,10187.0,22.9,26.8,1,1,460
+Dar es Salaam,Mbeya - Songea,Daladala,Weekday,Night (8-10pm),Sunny,Long Rains,73.8,3840.0,11,9247.0,40.7,27.3,0,0,228
+Tabora,Tabora - Shinyanga,Daladala,Weekend,Morning Peak (7-9am),Sunny,Short Rains,54.5,920.0,1,2434.0,4.4,25.8,1,0,432
+Mwanza,Mbezi - Posta,Daladala,Weekday,Night (8-10pm),Rainy,Short Rains,89.6,2870.0,34,10086.0,24.7,35.9,0,1,396
+Dar es Salaam,Arusha - Moshi,Daladala,Weekday,Night (8-10pm),Sunny,Short Rains,28.9,2870.0,1,2744.0,47.9,34.7,0,0,185
+Zanzibar,Iringa - Morogoro,Daladala,Weekday,Early Morning (5-7am),Sunny,Long Rains,8.9,720.0,19,10765.0,48.6,23.5,1,0,383
+Dar es Salaam,Tanga - Korogwe,Bus,Weekday,Morning Peak (7-9am),Sunny,Dry Season,37.4,2260.0,2,5774.0,43.5,20.0,1,0,471
+Arusha,City Centre - Airport,Taxi,Weekday,Morning Peak (7-9am),Sunny,Short Rains,58.0,4310.0,21,8285.0,13.8,33.1,1,1,433
+Mwanza,Arusha - Moshi,Tuk-tuk,Weekday,Midday (10am-12pm),Sunny,Long Rains,21.8,4320.0,20,6218.0,16.3,35.9,1,0,329
+Zanzibar,Arusha - Moshi,Daladala,Weekend,Night (8-10pm),Sunny,Long Rains,43.9,770.0,23,1581.0,59.8,23.3,1,1,243
+Morogoro,Iringa - Morogoro,Bus,Weekday,Morning Peak (7-9am),Sunny,Long Rains,49.2,730.0,21,3843.0,8.0,24.4,1,0,509
+Tabora,Mwanza - Musoma,Bus,Weekday,Midday (10am-12pm),Sunny,Dry Season,8.8,1530.0,24,11813.0,12.5,34.9,1,1,506
+Tanga,Iringa - Morogoro,Bus,Weekday,Afternoon (1-3pm),Rainy,Short Rains,70.8,4410.0,4,11548.0,9.5,30.8,0,0,258
+Zanzibar,Mwanza - Musoma,Taxi,Weekday,Midday (10am-12pm),Sunny,Long Rains,106.4,910.0,12,4186.0,21.0,23.3,0,1,335
+Dodoma,Mwanza - Musoma,Tuk-tuk,Weekday,Evening Peak (4-7pm),Sunny,Dry Season,19.9,3680.0,22,11957.0,14.2,28.5,1,1,556
+Tabora,Dodoma - Kondoa,Taxi,Weekend,Early Morning (5-7am),Rainy,Long Rains,72.5,780.0,20,10224.0,30.9,35.0,0,1,291
+Zanzibar,Dodoma - Kondoa,BRT,Weekday,Afternoon (1-3pm),Cloudy,Long Rains,80.4,3230.0,18,7526.0,29.6,32.6,1,1,452
+Arusha,Ubungo - Kariakoo,Bus,Weekend,Afternoon (1-3pm),Sunny,Long Rains,51.5,1970.0,1,961.0,54.3,31.4,1,1,227
+Tanga,Mbeya - Songea,BRT,Weekend,Evening Peak (4-7pm),Heavy Rain,Long Rains,84.7,4010.0,30,10867.0,4.0,31.3,1,1,561
+Arusha,Mbeya - Songea,Ferry,Weekday,Midday (10am-12pm),Sunny,Long Rains,50.5,1400.0,33,6910.0,20.6,21.2,1,0,467
+Tanga,City Centre - Airport,Daladala,Weekend,Early Morning (5-7am),Sunny,Dry Season,61.5,3300.0,24,10487.0,36.6,32.8,1,1,403
+Dodoma,Mbeya - Songea,Daladala,Weekday,Midday (10am-12pm),Rainy,Short Rains,2.9,1410.0,14,10096.0,37.1,23.0,0,0,306
+Tabora,Dodoma - Kondoa,Taxi,Weekday,Morning Peak (7-9am),Cloudy,Short Rains,83.6,3650.0,36,10080.0,29.8,34.7,0,0,452
+Morogoro,Ubungo - Kariakoo,Tuk-tuk,Weekday,Midday (10am-12pm),Sunny,Short Rains,80.0,4410.0,5,8529.0,49.3,24.6,0,0,212
+Arusha,Ubungo - Kariakoo,BRT,Weekday,Afternoon (1-3pm),Sunny,Short Rains,6.5,900.0,11,3851.0,5.6,33.4,1,0,453
+Arusha,Mwanza - Musoma,Tuk-tuk,Weekday,Early Morning (5-7am),Cloudy,Dry Season,45.5,4370.0,24,4366.0,49.3,22.8,0,0,204
+Iringa,Iringa - Morogoro,Taxi,Weekday,Midday (10am-12pm),Sunny,Dry Season,117.5,3090.0,31,4047.0,30.7,27.3,1,1,337
+Tanga,City Centre - Airport,Daladala,Weekday,Early Morning (5-7am),Heavy Rain,Dry Season,51.6,900.0,13,731.0,9.8,19.9,1,0,355
+Mbeya,Mwanza - Musoma,Tuk-tuk,Weekday,Early Morning (5-7am),Sunny,Long Rains,61.2,2310.0,16,7200.0,53.4,29.9,0,0,225
+Tabora,Iringa - Morogoro,Tuk-tuk,Weekday,Morning Peak (7-9am),Rainy,Long Rains,109.4,1060.0,24,8537.0,39.7,33.0,0,1,454
+Tanga,Mbeya - Songea,Daladala,Public Holiday,Morning Peak (7-9am),Cloudy,Long Rains,86.6,3590.0,13,10319.0,11.5,30.9,1,0,502
+Iringa,Mwanza - Musoma,BRT,Weekend,Afternoon (1-3pm),Rainy,Short Rains,70.7,3870.0,24,2112.0,4.0,27.4,1,1,410
